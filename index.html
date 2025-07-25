@@ -22,6 +22,7 @@
       const [showModal, setShowModal] = useState(false);
       const [isCorrect, setIsCorrect] = useState(null);
       const [answeredQuestions, setAnsweredQuestions] = useState({});
+      const [score, setScore] = useState(0);
       const [error, setError] = useState(null);
 
       // Load question sets
@@ -50,6 +51,7 @@
         if (selectedSet) {
           setQuestions([]); // Clear previous questions
           setAnsweredQuestions({}); // Reset answered questions
+          setScore(0); // Reset score when changing question sets
           fetch(selectedSet)
             .then(response => {
               if (!response.ok) {
@@ -75,6 +77,9 @@
       const handleAnswer = (selectedOption) => {
         const correct = selectedOption === selectedQuestion.correctAnswer;
         setIsCorrect(correct);
+        if (correct) {
+          setScore(prevScore => prevScore + selectedQuestion.value);
+        }
         setAnsweredQuestions(prev => ({
           ...prev,
           [`${selectedQuestion.categoryIndex}-${selectedQuestion.questionIndex}`]: correct
@@ -105,20 +110,25 @@
       return (
         <div className="container mx-auto p-4">
           <h1 className="text-4xl font-bold text-center mb-4">Jeopardy: Bible Quiz</h1>
-          <div className="mb-6 text-center">
-            <label htmlFor="questionSet" className="mr-2">Select Question Set:</label>
-            <select
-              id="questionSet"
-              value={selectedSet}
-              onChange={handleSetChange}
-              className="bg-white text-black p-2 rounded"
-            >
-              {questionSets.map((set, index) => (
-                <option key={index} value={set.file}>
-                  {set.title}
-                </option>
-              ))}
-            </select>
+          <div className="flex justify-between items-center mb-6">
+            <div>
+              <label htmlFor="questionSet" className="mr-2">Select Question Set:</label>
+              <select
+                id="questionSet"
+                value={selectedSet}
+                onChange={handleSetChange}
+                className="bg-white text-black p-2 rounded"
+              >
+                {questionSets.map((set, index) => (
+                  <option key={index} value={set.file}>
+                    {set.title}
+                  </option>
+                ))}
+              </select>
+            </div>
+            <div className="text-2xl font-semibold">
+              Score: ${score}
+            </div>
           </div>
           {questions.length === 0 && (
             <p className="text-center text-xl">Loading questions...</p>
