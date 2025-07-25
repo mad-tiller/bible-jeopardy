@@ -1,0 +1,284 @@
+{
+  "categories": [
+    {
+      "name": "Temple Dedication",
+      "questions": [
+        {
+          "question": "What did Solomon bring into the Temple during its dedication?",
+          "options": ["Ark of the Covenant", "Golden Altar", "Molten Sea", "Lampstands"],
+          "correctAnswer": "Ark of the Covenant",
+          "value": 200
+        },
+        {
+          "question": "What filled the Temple when the priests came out of the Holy Place?",
+          "options": ["Cloud", "Fire", "Light", "Smoke"],
+          "correctAnswer": "Cloud",
+          "value": 400
+        },
+        {
+          "question": "What did Solomon pray for God to do with Israel's prayers?",
+          "options": ["Hear from heaven", "Answer immediately", "Write them down", "Send prophets"],
+          "correctAnswer": "Hear from heaven",
+          "value": 600
+        },
+        {
+          "question": "How many days did the dedication feast last?",
+          "options": ["Fourteen", "Seven", "Ten", "Twelve"],
+          "correctAnswer": "Fourteen",
+          "value": 800
+        },
+        {
+          "question": "How many sheep were sacrificed during the dedication?",
+          "options": ["120,000", "22,000", "50,000", "10,000"],
+          "correctAnswer": "120,000",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "God's Covenant",
+      "questions": [
+        {
+          "question": "What did God promise Solomon if he kept His commandments?",
+          "options": ["Enduring throne", "Great wealth", "Many sons", "Long life"],
+          "correctAnswer": "Enduring throne",
+          "value": 200
+        },
+        {
+          "question": "What would happen if Solomon turned to other gods?",
+          "options": ["Israel cut off", "Temple rebuilt", "Wealth lost", "Victory denied"],
+          "correctAnswer": "Israel cut off",
+          "value": 400
+        },
+        {
+          "question": "Where did God say He would dwell if Solomon obeyed?",
+          "options": ["Temple", "Palace", "Jerusalem", "Heaven"],
+          "correctAnswer": "Temple",
+          "value": 600
+        },
+        {
+          "question": "What would become a proverb if Israel disobeyed?",
+          "options": ["Temple", "Israel", "Throne", "Jerusalem"],
+          "correctAnswer": "Israel",
+          "value": 800
+        },
+        {
+          "question": "How many times did God appear to Solomon?",
+          "options": ["Two", "One", "Three", "Four"],
+          "correctAnswer": "Two",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Solomon's Wealth",
+      "questions": [
+        {
+          "question": "What precious metal did Solomon receive yearly?",
+          "options": ["Gold", "Silver", "Bronze", "Iron"],
+          "correctAnswer": "Gold",
+          "value": 200
+        },
+        {
+          "question": "How much gold did Solomon receive annually?",
+          "options": ["666 talents", "500 talents", "1000 talents", "300 talents"],
+          "correctAnswer": "666 talents",
+          "value": 400
+        },
+        {
+          "question": "What were Solomon's drinking vessels made of?",
+          "options": ["Gold", "Silver", "Bronze", "Clay"],
+          "correctAnswer": "Gold",
+          "value": 600
+        },
+        {
+          "question": "What exotic items did Solomon's navy bring from Tarshish?",
+          "options": ["Apes and peacocks", "Cedar and cypress", "Wheat and oil", "Gold and silver"],
+          "correctAnswer": "Apes and peacocks",
+          "value": 800
+        },
+        {
+          "question": "What was the material of Solomon's great throne?",
+          "options": ["Ivory and gold", "Cedar and bronze", "Silver and marble", "Wood and iron"],
+          "correctAnswer": "Ivory and gold",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Visitors and Gifts",
+      "questions": [
+        {
+          "question": "Who came to test Solomon with hard questions?",
+          "options": ["Queen of Sheba", "King of Tyre", "Pharaoh", "King of Moab"],
+          "correctAnswer": "Queen of Sheba",
+          "value": 200
+        },
+        {
+          "question": "What did the Queen of Sheba give Solomon?",
+          "options": ["Gold and spices", "Silver and bronze", "Horses and chariots", "Cloth and wine"],
+          "correctAnswer": "Gold and spices",
+          "value": 400
+        },
+        {
+          "question": "How much gold did the Queen of Sheba bring?",
+          "options": ["120 talents", "50 talents", "200 talents", "300 talents"],
+          "correctAnswer": "120 talents",
+          "value": 600
+        },
+        {
+          "question": "What did Solomon give the Queen of Sheba?",
+          "options": ["All she desired", "Gold only", "A new throne", "A temple tour"],
+          "correctAnswer": "All she desired",
+          "value": 800
+        },
+        {
+          "question": "What was unique about Solomon's throne?",
+          "options": ["Six steps", "Twelve steps", "Golden lions", "Cedar base"],
+          "correctAnswer": "Six steps",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Solomon's Downfall",
+      "questions": [
+        {
+          "question": "How many wives did Solomon have?",
+          "options": ["700", "300", "1000", "500"],
+          "correctAnswer": "700",
+          "value": 200
+        },
+        {
+          "question": "What did Solomon's wives cause him to do?",
+          "options": ["Worship other gods", "Build palaces", "Fight wars", "Trade goods"],
+          "correctAnswer": "Worship other gods",
+          "value": 400
+        },
+        {
+          "question": "Which god did Solomon build a high place for?",
+          "options": ["Molech", "Baal", "Dagon", "Marduk"],
+          "correctAnswer": "Molech",
+          "value": 600
+        },
+        {
+          "question": "What was God's punishment for Solomon's idolatry?",
+          "options": ["Kingdom divided", "Temple destroyed", "Wealth taken", "Sons killed"],
+          "correctAnswer": "Kingdom divided",
+          "value": 800
+        },
+        {
+          "question": "How many tribes were left to Solomon's house?",
+          "options": ["One", "Two", "Ten", "Twelve"],
+          "correctAnswer": "One",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Adversaries",
+      "questions": [
+        {
+          "question": "Who was an adversary to Solomon from Edom?",
+          "options": ["Hadad", "Rezon", "Jeroboam", "Hiram"],
+          "correctAnswer": "Hadad",
+          "value": 200
+        },
+        {
+          "question": "Who was an adversary from Damascus?",
+          "options": ["Rezon", "Hadad", "Jeroboam", "Pharaoh"],
+          "correctAnswer": "Rezon",
+          "value": 400
+        },
+        {
+          "question": "Who sheltered Hadad from Solomon?",
+          "options": ["Pharaoh", "Hiram", "Rezon", "Queen of Sheba"],
+          "correctAnswer": "Pharaoh",
+          "value": 600
+        },
+        {
+          "question": "What did Hadad do after returning to Edom?",
+          "options": ["Became an adversary", "Made peace", "Built a temple", "Traded with Solomon"],
+          "correctAnswer": "Became an adversary",
+          "value": 800
+        },
+        {
+          "question": "What was Rezon's role in Damascus?",
+          "options": ["King", "Priest", "General", "Merchant"],
+          "correctAnswer": "King",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Jeroboam's Rise",
+      "questions": [
+        {
+          "question": "Who prophesied to Jeroboam about the kingdom?",
+          "options": ["Ahijah", "Nathan", "Zadok", "Benaiah"],
+          "correctAnswer": "Ahijah",
+          "value": 200
+        },
+        {
+          "question": "What did Ahijah tear to show the kingdom's division?",
+          "options": ["Garment", "Scroll", "Veil", "Robe"],
+          "correctAnswer": "Garment",
+          "value": 400
+        },
+        {
+          "question": "How many tribes were promised to Jeroboam?",
+          "options": ["Ten", "One", "Two", "Twelve"],
+          "correctAnswer": "Ten",
+          "value": 600
+        },
+        {
+          "question": "Where did Jeroboam flee after his rebellion?",
+          "options": ["Egypt", "Damascus", "Tyre", "Sheba"],
+          "correctAnswer": "Egypt",
+          "value": 800
+        },
+        {
+          "question": "Who was Jeroboam's host in Egypt?",
+          "options": ["Shishak", "Pharaoh", "Hadad", "Rezon"],
+          "correctAnswer": "Shishak",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Jeroboam's Sin",
+      "questions": [
+        {
+          "question": "What did Jeroboam make to prevent worship in Jerusalem?",
+          "options": ["Golden calves", "New temples", "High places", "Altars"],
+          "correctAnswer": "Golden calves",
+          "value": 200
+        },
+        {
+          "question": "Where were the golden calves placed?",
+          "options": ["Bethel and Dan", "Jerusalem and Samaria", "Hebron and Gilead", "Tyre and Sidon"],
+          "correctAnswer": "Bethel and Dan",
+          "value": 400
+        },
+        {
+          "question": "Who did Jeroboam appoint as priests?",
+          "options": ["Non-Levites", "Levites", "Prophets", "Elders"],
+          "correctAnswer": "Non-Levites",
+          "value": 600
+        },
+        {
+          "question": "What month did Jeroboam choose for his feast?",
+          "options": ["Eighth", "Seventh", "First", "Tenth"],
+          "correctAnswer": "Eighth",
+          "value": 800
+        },
+        {
+          "question": "What did the man of God prophesy about Jeroboam's altar?",
+          "options": ["It would split", "It would burn", "It would sink", "It would glow"],
+          "correctAnswer": "It would split",
+          "value": 1000
+        }
+      ]
+    }
+  ]
+}
