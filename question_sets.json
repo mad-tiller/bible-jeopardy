@@ -1,0 +1,12 @@
+{
+  "sets": [
+    {
+      "file": "questions_1kings1-7.json",
+      "title": "1 Kings 1-7 (KJV)"
+    },
+    {
+      "file": "questions_1kings8-14.json",
+      "title": "1 Kings 8-14 (KJV)"
+    }
+  ]
+}
