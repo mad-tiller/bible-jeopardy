@@ -5,31 +5,31 @@
       "questions": [
         {
           "question": "What did Solomon bring into the Temple during its dedication?",
-          "options": ["Ark of the Covenant", "Golden Altar", "Molten Sea", "Lampstands"],
+          "options": ["Lampstands", "Molten Sea", "Ark of the Covenant", "Golden Altar"],
           "correctAnswer": "Ark of the Covenant",
           "value": 200
         },
         {
           "question": "What filled the Temple when the priests came out of the Holy Place?",
-          "options": ["Cloud", "Fire", "Light", "Smoke"],
+          "options": ["Light", "Smoke", "Fire", "Cloud"],
           "correctAnswer": "Cloud",
           "value": 400
         },
         {
           "question": "What did Solomon pray for God to do with Israel's prayers?",
-          "options": ["Hear from heaven", "Answer immediately", "Write them down", "Send prophets"],
+          "options": ["Send prophets", "Answer immediately", "Hear from heaven", "Write them down"],
           "correctAnswer": "Hear from heaven",
           "value": 600
         },
         {
           "question": "How many days did the dedication feast last?",
-          "options": ["Fourteen", "Seven", "Ten", "Twelve"],
+          "options": ["Seven", "Ten", "Fourteen", "Twelve"],
           "correctAnswer": "Fourteen",
           "value": 800
         },
         {
           "question": "How many sheep were sacrificed during the dedication?",
-          "options": ["120,000", "22,000", "50,000", "10,000"],
+          "options": ["10,000", "50,000", "120,000", "22,000"],
           "correctAnswer": "120,000",
           "value": 1000
         }
@@ -40,31 +40,31 @@
       "questions": [
         {
           "question": "What did God promise Solomon if he kept His commandments?",
-          "options": ["Enduring throne", "Great wealth", "Many sons", "Long life"],
+          "options": ["Many sons", "Great wealth", "Enduring throne", "Long life"],
           "correctAnswer": "Enduring throne",
           "value": 200
         },
         {
           "question": "What would happen if Solomon turned to other gods?",
-          "options": ["Israel cut off", "Temple rebuilt", "Wealth lost", "Victory denied"],
+          "options": ["Temple rebuilt", "Victory denied", "Israel cut off", "Wealth lost"],
           "correctAnswer": "Israel cut off",
           "value": 400
         },
         {
           "question": "Where did God say He would dwell if Solomon obeyed?",
-          "options": ["Temple", "Palace", "Jerusalem", "Heaven"],
+          "options": ["Jerusalem", "Temple", "Heaven", "Palace"],
           "correctAnswer": "Temple",
           "value": 600
         },
         {
           "question": "What would become a proverb if Israel disobeyed?",
-          "options": ["Temple", "Israel", "Throne", "Jerusalem"],
+          "options": ["Jerusalem", "Throne", "Israel", "Temple"],
           "correctAnswer": "Israel",
           "value": 800
         },
         {
           "question": "How many times did God appear to Solomon?",
-          "options": ["Two", "One", "Three", "Four"],
+          "options": ["Four", "One", "Three", "Two"],
           "correctAnswer": "Two",
           "value": 1000
         }
@@ -75,31 +75,31 @@
       "questions": [
         {
           "question": "What precious metal did Solomon receive yearly?",
-          "options": ["Gold", "Silver", "Bronze", "Iron"],
+          "options": ["Iron", "Silver", "Gold", "Bronze"],
           "correctAnswer": "Gold",
           "value": 200
         },
         {
           "question": "How much gold did Solomon receive annually?",
-          "options": ["666 talents", "500 talents", "1000 talents", "300 talents"],
+          "options": ["300 talents", "1000 talents", "666 talents", "500 talents"],
           "correctAnswer": "666 talents",
           "value": 400
         },
         {
           "question": "What were Solomon's drinking vessels made of?",
-          "options": ["Gold", "Silver", "Bronze", "Clay"],
+          "options": ["Clay", "Bronze", "Silver", "Gold"],
           "correctAnswer": "Gold",
           "value": 600
         },
         {
           "question": "What exotic items did Solomon's navy bring from Tarshish?",
-          "options": ["Apes and peacocks", "Cedar and cypress", "Wheat and oil", "Gold and silver"],
+          "options": ["Cedar and cypress", "Gold and silver", "Apes and peacocks", "Wheat and oil"],
           "correctAnswer": "Apes and peacocks",
           "value": 800
         },
         {
           "question": "What was the material of Solomon's great throne?",
-          "options": ["Ivory and gold", "Cedar and bronze", "Silver and marble", "Wood and iron"],
+          "options": ["Silver and marble", "Ivory and gold", "Wood and iron", "Cedar and bronze"],
           "correctAnswer": "Ivory and gold",
           "value": 1000
         }
@@ -110,31 +110,31 @@
       "questions": [
         {
           "question": "Who came to test Solomon with hard questions?",
-          "options": ["Queen of Sheba", "King of Tyre", "Pharaoh", "King of Moab"],
+          "options": ["King of Tyre", "King of Moab", "Queen of Sheba", "Pharaoh"],
           "correctAnswer": "Queen of Sheba",
           "value": 200
         },
         {
           "question": "What did the Queen of Sheba give Solomon?",
-          "options": ["Gold and spices", "Silver and bronze", "Horses and chariots", "Cloth and wine"],
+          "options": ["Cloth and wine", "Horses and chariots", "Silver and bronze", "Gold and spices"],
           "correctAnswer": "Gold and spices",
           "value": 400
         },
         {
           "question": "How much gold did the Queen of Sheba bring?",
-          "options": ["120 talents", "50 talents", "200 talents", "300 talents"],
+          "options": ["300 talents", "200 talents", "50 talents", "120 talents"],
           "correctAnswer": "120 talents",
           "value": 600
         },
         {
           "question": "What did Solomon give the Queen of Sheba?",
-          "options": ["All she desired", "Gold only", "A new throne", "A temple tour"],
+          "options": ["A temple tour", "All she desired", "A new throne", "Gold only"],
           "correctAnswer": "All she desired",
           "value": 800
         },
         {
           "question": "What was unique about Solomon's throne?",
-          "options": ["Six steps", "Twelve steps", "Golden lions", "Cedar base"],
+          "options": ["Cedar base", "Golden lions", "Six steps", "Twelve steps"],
           "correctAnswer": "Six steps",
           "value": 1000
         }
@@ -145,31 +145,31 @@
       "questions": [
         {
           "question": "How many wives did Solomon have?",
-          "options": ["700", "300", "1000", "500"],
+          "options": ["500", "300", "1000", "700"],
           "correctAnswer": "700",
           "value": 200
         },
         {
           "question": "What did Solomon's wives cause him to do?",
-          "options": ["Worship other gods", "Build palaces", "Fight wars", "Trade goods"],
+          "options": ["Build palaces", "Fight wars", "Worship other gods", "Trade goods"],
           "correctAnswer": "Worship other gods",
           "value": 400
         },
         {
           "question": "Which god did Solomon build a high place for?",
-          "options": ["Molech", "Baal", "Dagon", "Marduk"],
+          "options": ["Baal", "Marduk", "Molech", "Dagon"],
           "correctAnswer": "Molech",
           "value": 600
         },
         {
           "question": "What was God's punishment for Solomon's idolatry?",
-          "options": ["Kingdom divided", "Temple destroyed", "Wealth taken", "Sons killed"],
+          "options": ["Sons killed", "Kingdom divided", "Wealth taken", "Temple destroyed"],
           "correctAnswer": "Kingdom divided",
           "value": 800
         },
         {
           "question": "How many tribes were left to Solomon's house?",
-          "options": ["One", "Two", "Ten", "Twelve"],
+          "options": ["Ten", "Twelve", "One", "Two"],
           "correctAnswer": "One",
           "value": 1000
         }
@@ -180,31 +180,31 @@
       "questions": [
         {
           "question": "Who was an adversary to Solomon from Edom?",
-          "options": ["Hadad", "Rezon", "Jeroboam", "Hiram"],
+          "options": ["Hiram", "Jeroboam", "Hadad", "Rezon"],
           "correctAnswer": "Hadad",
           "value": 200
         },
         {
           "question": "Who was an adversary from Damascus?",
-          "options": ["Rezon", "Hadad", "Jeroboam", "Pharaoh"],
+          "options": ["Jeroboam", "Rezon", "Pharaoh", "Hadad"],
           "correctAnswer": "Rezon",
           "value": 400
         },
         {
           "question": "Who sheltered Hadad from Solomon?",
-          "options": ["Pharaoh", "Hiram", "Rezon", "Queen of Sheba"],
+          "options": ["Hiram", "Queen of Sheba", "Pharaoh", "Rezon"],
           "correctAnswer": "Pharaoh",
           "value": 600
         },
         {
           "question": "What did Hadad do after returning to Edom?",
-          "options": ["Became an adversary", "Made peace", "Built a temple", "Traded with Solomon"],
+          "options": ["Traded with Solomon", "Made peace", "Built a temple", "Became an adversary"],
           "correctAnswer": "Became an adversary",
           "value": 800
         },
         {
           "question": "What was Rezon's role in Damascus?",
-          "options": ["King", "Priest", "General", "Merchant"],
+          "options": ["General", "Merchant", "King", "Priest"],
           "correctAnswer": "King",
           "value": 1000
         }
@@ -215,31 +215,31 @@
       "questions": [
         {
           "question": "Who prophesied to Jeroboam about the kingdom?",
-          "options": ["Ahijah", "Nathan", "Zadok", "Benaiah"],
+          "options": ["Benaiah", "Nathan", "Ahijah", "Zadok"],
           "correctAnswer": "Ahijah",
           "value": 200
         },
         {
           "question": "What did Ahijah tear to show the kingdom's division?",
-          "options": ["Garment", "Scroll", "Veil", "Robe"],
+          "options": ["Veil", "Robe", "Garment", "Scroll"],
           "correctAnswer": "Garment",
           "value": 400
         },
         {
           "question": "How many tribes were promised to Jeroboam?",
-          "options": ["Ten", "One", "Two", "Twelve"],
+          "options": ["One", "Twelve", "Two", "Ten"],
           "correctAnswer": "Ten",
           "value": 600
         },
         {
           "question": "Where did Jeroboam flee after his rebellion?",
-          "options": ["Egypt", "Damascus", "Tyre", "Sheba"],
+          "options": ["Tyre", "Egypt", "Damascus", "Sheba"],
           "correctAnswer": "Egypt",
           "value": 800
         },
         {
           "question": "Who was Jeroboam's host in Egypt?",
-          "options": ["Shishak", "Pharaoh", "Hadad", "Rezon"],
+          "options": ["Rezon", "Hadad", "Shishak", "Pharaoh"],
           "correctAnswer": "Shishak",
           "value": 1000
         }
@@ -250,31 +250,31 @@
       "questions": [
         {
           "question": "What did Jeroboam make to prevent worship in Jerusalem?",
-          "options": ["Golden calves", "New temples", "High places", "Altars"],
+          "options": ["High places", "Golden calves", "Altars", "New temples"],
           "correctAnswer": "Golden calves",
           "value": 200
         },
         {
           "question": "Where were the golden calves placed?",
-          "options": ["Bethel and Dan", "Jerusalem and Samaria", "Hebron and Gilead", "Tyre and Sidon"],
+          "options": ["Tyre and Sidon", "Jerusalem and Samaria", "Bethel and Dan", "Hebron and Gilead"],
           "correctAnswer": "Bethel and Dan",
           "value": 400
         },
         {
           "question": "Who did Jeroboam appoint as priests?",
-          "options": ["Non-Levites", "Levites", "Prophets", "Elders"],
+          "options": ["Levites", "Non-Levites", "Elders", "Prophets"],
           "correctAnswer": "Non-Levites",
           "value": 600
         },
         {
           "question": "What month did Jeroboam choose for his feast?",
-          "options": ["Eighth", "Seventh", "First", "Tenth"],
+          "options": ["First", "Seventh", "Eighth", "Tenth"],
           "correctAnswer": "Eighth",
           "value": 800
         },
         {
           "question": "What did the man of God prophesy about Jeroboam's altar?",
-          "options": ["It would split", "It would burn", "It would sink", "It would glow"],
+          "options": ["It would glow", "It would sink", "It would burn", "It would split"],
           "correctAnswer": "It would split",
           "value": 1000
         }
