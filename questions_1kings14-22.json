@@ -5,31 +5,31 @@
       "questions": [
         {
           "question": "What did Jeroboam's wife disguise herself as to visit Ahijah?",
-          "options": ["A common woman", "A priestess", "A queen", "A prophetess"],
+          "options": ["A priestess", "A common woman", "A queen", "A prophetess"],
           "correctAnswer": "A common woman",
           "value": 200
         },
         {
           "question": "What did Ahijah prophesy about Jeroboam's house?",
-          "options": ["It would be cut off", "It would prosper", "It would rule forever", "It would be exiled"],
+          "options": ["It would rule forever", "It would prosper", "It would be exiled", "It would be cut off"],
           "correctAnswer": "It would be cut off",
           "value": 400
         },
         {
           "question": "What happened to Jeroboam's son Abijah?",
-          "options": ["He died", "He became king", "He was healed", "He rebelled"],
+          "options": ["He was healed", "He became king", "He died", "He rebelled"],
           "correctAnswer": "He died",
           "value": 600
         },
         {
           "question": "Who succeeded Jeroboam as king of Israel?",
-          "options": ["Nadab", "Rehoboam", "Baasha", "Elah"],
+          "options": ["Elah", "Baasha", "Rehoboam", "Nadab"],
           "correctAnswer": "Nadab",
           "value": 800
         },
         {
           "question": "What was Jeroboam's sin that led to his house's destruction?",
-          "options": ["Idolatry", "Murder", "Theft", "Adultery"],
+          "options": ["Adultery", "Theft", "Idolatry", "Murder"],
           "correctAnswer": "Idolatry",
           "value": 1000
         }
@@ -40,31 +40,31 @@
       "questions": [
         {
           "question": "Who was Rehoboam's father?",
-          "options": ["Solomon", "David", "Jeroboam", "Saul"],
+          "options": ["David", "Jeroboam", "Saul", "Solomon"],
           "correctAnswer": "Solomon",
           "value": 200
         },
         {
           "question": "What did Rehoboam do to cause Israel to rebel?",
-          "options": ["Harsher yoke", "Lowered taxes", "Built temples", "Made peace"],
+          "options": ["Lowered taxes", "Made peace", "Harsher yoke", "Built temples"],
           "correctAnswer": "Harsher yoke",
           "value": 400
         },
         {
           "question": "Who plundered Jerusalem during Rehoboam's reign?",
-          "options": ["Shishak", "Jeroboam", "Baasha", "Hiram"],
+          "options": ["Hiram", "Jeroboam", "Shishak", "Baasha"],
           "correctAnswer": "Shishak",
           "value": 600
         },
         {
           "question": "What did Rehoboam replace the gold shields with?",
-          "options": ["Bronze shields", "Silver shields", "Iron shields", "Wooden shields"],
+          "options": ["Iron shields", "Bronze shields", "Silver shields", "Wooden shields"],
           "correctAnswer": "Bronze shields",
           "value": 800
         },
         {
           "question": "Who succeeded Rehoboam as king of Judah?",
-          "options": ["Abijam", "Asa", "Jehoshaphat", "Nadab"],
+          "options": ["Nadab", "Asa", "Abijam", "Jehoshaphat"],
           "correctAnswer": "Abijam",
           "value": 1000
         }
@@ -75,31 +75,31 @@
       "questions": [
         {
           "question": "Who killed Nadab and became king of Israel?",
-          "options": ["Baasha", "Elah", "Zimri", "Omri"],
+          "options": ["Omri", "Zimri", "Baasha", "Elah"],
           "correctAnswer": "Baasha",
           "value": 200
         },
         {
           "question": "Who succeeded Baasha as king of Israel?",
-          "options": ["Elah", "Zimri", "Omri", "Ahab"],
+          "options": ["Zimri", "Elah", "Omri", "Ahab"],
           "correctAnswer": "Elah",
           "value": 400
         },
         {
           "question": "Who conspired against Elah and became king?",
-          "options": ["Zimri", "Omri", "Ahab", "Tibni"],
+          "options": ["Omri", "Tibni", "Zimri", "Ahab"],
           "correctAnswer": "Zimri",
           "value": 600
         },
         {
           "question": "How long did Zimri reign as king of Israel?",
-          "options": ["Seven days", "One year", "Two months", "Six years"],
+          "options": ["Two months", "Six years", "One year", "Seven days"],
           "correctAnswer": "Seven days",
           "value": 800
         },
         {
           "question": "Who became king after defeating Tibni?",
-          "options": ["Omri", "Ahab", "Zimri", "Baasha"],
+          "options": ["Zimri", "Baasha", "Omri", "Ahab"],
           "correctAnswer": "Omri",
           "value": 1000
         }
@@ -110,31 +110,31 @@
       "questions": [
         {
           "question": "Who was Abijam's mother?",
-          "options": ["Maachah", "Bathsheba", "Jezebel", "Athaliah"],
+          "options": ["Jezebel", "Athaliah", "Maachah", "Bathsheba"],
           "correctAnswer": "Maachah",
           "value": 200
         },
         {
           "question": "Who succeeded Abijam as king of Judah?",
-          "options": ["Asa", "Jehoshaphat", "Jehoram", "Ahaziah"],
+          "options": ["Jehoshaphat", "Asa", "Jehoram", "Ahaziah"],
           "correctAnswer": "Asa",
           "value": 400
         },
         {
           "question": "What did Asa remove from Judah?",
-          "options": ["High places", "Gold shields", "Prophets", "Taxes"],
+          "options": ["Taxes", "High places", "Prophets", "Gold shields"],
           "correctAnswer": "High places",
           "value": 600
         },
         {
           "question": "Who did Asa ally with against Baasha?",
-          "options": ["Ben-hadad", "Shishak", "Omri", "Ahab"],
+          "options": ["Ahab", "Ben-hadad", "Shishak", "Omri"],
           "correctAnswer": "Ben-hadad",
           "value": 800
         },
         {
           "question": "What disease afflicted Asa in his old age?",
-          "options": ["Foot disease", "Blindness", "Leprosy", "Heart disease"],
+          "options": ["Heart disease", "Blindness", "Leprosy", "Foot disease"],
           "correctAnswer": "Foot disease",
           "value": 1000
         }
@@ -145,31 +145,31 @@
       "questions": [
         {
           "question": "Who prophesied against Jeroboam's house?",
-          "options": ["Ahijah", "Elijah", "Micaiah", "Jehu"],
+          "options": ["Micaiah", "Elijah", "Ahijah", "Jehu"],
           "correctAnswer": "Ahijah",
           "value": 200
         },
         {
           "question": "Who prophesied drought in Israel?",
-          "options": ["Elijah", "Ahijah", "Micaiah", "Jehu"],
+          "options": ["Micaiah", "Ahijah", "Elijah", "Jehu"],
           "correctAnswer": "Elijah",
           "value": 400
         },
         {
           "question": "Where did Elijah hide during the drought?",
-          "options": ["Brook Cherith", "Mount Carmel", "Zarephath", "Tishom"],
+          "options": ["Tishom", "Zarephath", "Brook Cherith", "Mount Carmel"],
           "correctAnswer": "Brook Cherith",
           "value": 600
         },
         {
           "question": "Who prophesied Ahab's death at Ramoth-gilead?",
-          "options": ["Micaiah", "Elijah", "Ahijah", "Jehu"],
+          "options": ["Jehu", "Ahijah", "Elijah", "Micaiah"],
           "correctAnswer": "Micaiah",
           "value": 800
         },
         {
-          "question": "What did Jehuah prophesy against Baasha's house?",
-          "options": ["Destruction", "Prosperity", "Exile", "Restoration"],
+          "question": "What did Jehu prophesy against Baasha's house?",
+          "options": ["Restoration", "Exile", "Destruction", "Prosperity"],
           "correctAnswer": "Destruction",
           "value": 1000
         }
@@ -180,31 +180,31 @@
       "questions": [
         {
           "question": "Who fed Elijah at the brook Cherith?",
-          "options": ["Ravens", "Widow of Zarephath", "Angels", "Ahab"],
+          "options": ["Ahab", "Widow of Zarephath", "Angels", "Ravens"],
           "correctAnswer": "Ravens",
           "value": 200
         },
         {
           "question": "Where did Elijah stay during the famine?",
-          "options": ["Zarephath", "Tishom", "Samaria", "Bethel"],
+          "options": ["Bethel", "Tishom", "Zarephath", "Samaria"],
           "correctAnswer": "Zarephath",
           "value": 400
         },
         {
           "question": "What did Elijah multiply for the widow?",
-          "options": ["Meal and flour", "Oil and wine", "Bread and fish", "Gold and silver"],
+          "options": ["Bread and fish", "Oil and wine", "Meal and flour", "Gold and silver"],
           "correctAnswer": "Meal and Oil",
           "value": 600
         },
         {
           "question": "What miracle did Elijah perform for the widow's son?",
-          "options": ["Raised him from death", "Healed his blindness", "Fed him", "Blessed him"],
+          "options": ["Blessed him", "Healed his blindness", "Raised him from death", "Fed him"],
           "correctAnswer": "Raised him from death",
           "value": 800
         },
         {
           "question": "What did Elijah call down on Mount Carmel?",
-          "options": ["Fire", "Rain", "Wind", "Earthquake"],
+          "options": ["Wind", "Rain", "Earthquake", "Fire"],
           "correctAnswer": "Fire",
           "value": 1000
         }
@@ -215,31 +215,31 @@
       "questions": [
         {
           "question": "Who was Ahab's wife?",
-          "options": ["Jezebel", "Maachah", "Athaliah", "Bathsheba"],
+          "options": ["Athaliah", "Maachah", "Jezebel", "Bathsheba"],
           "correctAnswer": "Jezebel",
           "value": 200
         },
         {
           "question": "What did Jezebel worship?",
-          "options": ["Baal", "Molech", "Ashtoreth", "Chemosh"],
+          "options": ["Molech", "Baal", "Chemosh", "Ashtoreth"],
           "correctAnswer": "Baal",
           "value": 400
         },
         {
           "question": "Whose vineyard did Ahab desire?",
-          "options": ["Naboth", "Obadiah", "Jehu", "Ben-hadad"],
+          "options": ["Jehu", "Ben-hadad", "Naboth", "Obadiah"],
           "correctAnswer": "Naboth",
           "value": 600
         },
         {
           "question": "What did Jezebel do to Naboth?",
-          "options": ["Had him killed", "Bribed him", "Exiled him", "Honored him"],
+          "options": ["Bribed him", "Exiled him", "Had him killed", "Honored him"],
           "correctAnswer": "Had him killed",
           "value": 800
         },
         {
           "question": "What did Elijah prophesy about Jezebel's fate?",
-          "options": ["Eaten by dogs", "Exiled", "Crowned queen", "Healed"],
+          "options": ["Exiled", "Crowned queen", "Eaten by dogs", "Healed"],
           "correctAnswer": "Eaten by dogs",
           "value": 1000
         }
@@ -250,31 +250,31 @@
       "questions": [
         {
           "question": "Who was king of Syria during Ahab's reign?",
-          "options": ["Ben-hadad", "Shishak", "Hazael", "Rezin"],
+          "options": ["Hazael", "Ben-hadad", "Rezin", "Shishak"],
           "correctAnswer": "Ben-hadad",
           "value": 200
         },
         {
           "question": "What city did Ahab defend against Ben-hadad?",
-          "options": ["Samaria", "Jerusalem", "Tirzah", "Ramoth-gilead"],
+          "options": ["Jerusalem", "Tirzah", "Samaria", "Ramoth-gilead"],
           "correctAnswer": "Samaria",
           "value": 400
         },
         {
           "question": "Who allied with Ahab against Syria?",
-          "options": ["Jehoshaphat", "Asa", "Rehoboam", "Abijam"],
+          "options": ["Abijam", "Rehoboam", "Jehoshaphat", "Asa"],
           "correctAnswer": "Jehoshaphat",
           "value": 600
         },
         {
           "question": "Where was Ahab killed in battle?",
-          "options": ["Ramoth-gilead", "Samaria", "Jerusalem", "Aphek"],
+          "options": ["Aphek", "Samaria", "Ramoth-gilead", "Jerusalem"],
           "correctAnswer": "Ramoth-gilead",
           "value": 800
         },
         {
           "question": "What did Ahab spare that led to his doom?",
-          "options": ["Ben-hadad", "Naboth", "Jehoshaphat", "Micaiah"],
+          "options": ["Naboth", "Micaiah", "Ben-hadad", "Jehoshaphat"],
           "correctAnswer": "Ben-hadad",
           "value": 1000
         }
