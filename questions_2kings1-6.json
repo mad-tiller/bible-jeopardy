@@ -1,0 +1,284 @@
+{
+  "categories": [
+    {
+      "name": "Elijah's Final Days",
+      "questions": [
+        {
+          "question": "Who sent captains with fifty men to bring Elijah down from the hill?",
+          "options": ["Jehu", "Elisha", "Jehoram", "Ahaziah"],
+          "correctAnswer": "Ahaziah",
+          "value": 200
+        },
+        {
+          "question": "What happened to the first two captains and their fifties?",
+          "options": ["They fled", "They were healed", "Fire consumed them", "They were drowned"],
+          "correctAnswer": "Fire consumed them",
+          "value": 400
+        },
+        {
+          "question": "What did the third captain do to avoid destruction?",
+          "options": ["Fled", "Prayed aloud", "Begged for mercy", "Brought gifts"],
+          "correctAnswer": "Begged for mercy",
+          "value": 600
+        },
+        {
+          "question": "How did Elijah ascend to heaven?",
+          "options": ["By chariot", "On a cloud", "In a whirlwind", "In a vision"],
+          "correctAnswer": "In a whirlwind",
+          "value": 800
+        },
+        {
+          "question": "What fell from Elijah as he ascended?",
+          "options": ["Scroll", "Sandals", "Mantle", "Staff"],
+          "correctAnswer": "Mantle",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Elisha's Miracles",
+      "questions": [
+        {
+          "question": "What did Elisha do to the water at Jericho?",
+          "options": ["Parted it", "Multiplied it", "Healed it", "Turned it to blood"],
+          "correctAnswer": "Healed it",
+          "value": 200
+        },
+        {
+          "question": "What did Elisha use to heal the water?",
+          "options": ["His mantle", "A staff", "Salt in a new cruse", "Oil from a jar"],
+          "correctAnswer": "Salt in a new cruse",
+          "value": 400
+        },
+        {
+          "question": "What happened to the youths who mocked Elisha?",
+          "options": ["They were exiled", "They fell ill", "Bears mauled them", "They were struck blind"],
+          "correctAnswer": "Bears mauled them",
+          "value": 600
+        },
+        {
+          "question": "What did Elisha cause to float in the Jordan?",
+          "options": ["A stone", "A fish", "An axe head", "A ship"],
+          "correctAnswer": "An axe head",
+          "value": 800
+        },
+        {
+          "question": "How did Elisha retrieve the axe head?",
+          "options": ["Dipped his hand", "Used his mantle", "Threw in a stick", "Prayed over it"],
+          "correctAnswer": "Threw in a stick",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Kings of Israel",
+      "questions": [
+        {
+          "question": "Who succeeded Ahaziah as king of Israel?",
+          "options": ["Ahab", "Omri", "Jehoram", "Jehu"],
+          "correctAnswer": "Jehoram",
+          "value": 200
+        },
+        {
+          "question": "Who was king of Judah during Jehoram's reign in Israel?",
+          "options": ["Asa", "Ahaziah", "Jehoram of Judah", "Jehoshaphat"],
+          "correctAnswer": "Jehoram of Judah",
+          "value": 400
+        },
+        {
+          "question": "Who anointed Jehu to be king over Israel?",
+          "options": ["Elijah", "A priest", "A young prophet", "Elisha"],
+          "correctAnswer": "A young prophet",
+          "value": 600
+        },
+        {
+          "question": "What city did Jehu destroy on his way to Jezreel?",
+          "options": ["Jericho", "Samaria", "Ramoth-gilead", "Beth-el"],
+          "correctAnswer": "Ramoth-gilead",
+          "value": 800
+        },
+        {
+          "question": "Who was thrown down from a window by eunuchs at Jehu's command?",
+          "options": ["Jehoram's wife", "The queen of Samaria", "Jezebel", "Athaliah"],
+          "correctAnswer": "Jezebel",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Wars and Battles",
+      "questions": [
+        {
+          "question": "Who was the king of Syria that besieged Samaria?",
+          "options": ["Rezin", "Shalmaneser", "Ben-hadad", "Hazael"],
+          "correctAnswer": "Ben-hadad",
+          "value": 200
+        },
+        {
+          "question": "What caused the Syrians to flee from Samaria?",
+          "options": ["Plague struck them", "Elisha prayed", "Heard a noise of chariots", "Saw fire"],
+          "correctAnswer": "Heard a noise of chariots",
+          "value": 400
+        },
+        {
+          "question": "Where did Elisha lead the blinded Syrian army?",
+          "options": ["Gilead", "Damascus", "Samaria", "Jerusalem"],
+          "correctAnswer": "Samaria",
+          "value": 600
+        },
+        {
+          "question": "What did the king of Israel do to the captured Syrians?",
+          "options": ["Blinded them", "Enslaved them", "Fed and released them", "Killed them"],
+          "correctAnswer": "Fed and released them",
+          "value": 800
+        },
+        {
+          "question": "Who killed Ben-hadad and became king of Syria?",
+          "options": ["Rezon", "Jehu", "Hazael", "Naaman"],
+          "correctAnswer": "Hazael",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Naaman's Healing",
+      "questions": [
+        {
+          "question": "What was Naaman's position in Syria?",
+          "options": ["Priest", "Merchant", "Captain of the host", "King"],
+          "correctAnswer": "Captain of the host",
+          "value": 200
+        },
+        {
+          "question": "Who told Naaman about the prophet in Israel?",
+          "options": ["Gehazi", "The king", "A little maid", "Elisha"],
+          "correctAnswer": "A little maid",
+          "value": 400
+        },
+        {
+          "question": "What did Elisha instruct Naaman to do to be healed?",
+          "options": ["Fast forty days", "Anoint with oil", "Wash in Jordan seven times", "Offer a sacrifice"],
+          "correctAnswer": "Wash in Jordan seven times",
+          "value": 600
+        },
+        {
+          "question": "What happened after Naaman washed the seventh time?",
+          "options": ["He received gold", "He was blinded", "His flesh was restored", "He saw a vision"],
+          "correctAnswer": "His flesh was restored",
+          "value": 800
+        },
+        {
+          "question": "What did Naaman offer Elisha as a gift?",
+          "options": ["A chariot", "Land", "Silver and garments", "Horses"],
+          "correctAnswer": "Silver and garments",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Gehazi's Sin",
+      "questions": [
+        {
+          "question": "What did Gehazi do after Naaman left?",
+          "options": ["Prayed for Naaman", "Followed Elisha", "Took gifts from Naaman", "Cursed Naaman"],
+          "correctAnswer": "Took gifts from Naaman",
+          "value": 200
+        },
+        {
+          "question": "What lie did Gehazi tell Elisha?",
+          "options": ["He was sick", "The king sent him", "Two young men needed help", "Naaman gave nothing"],
+          "correctAnswer": "Two young men needed help",
+          "value": 400
+        },
+        {
+          "question": "What punishment did Elisha pronounce on Gehazi?",
+          "options": ["Exile", "Death", "Naaman's leprosy", "Blindness"],
+          "correctAnswer": "Naaman's leprosy",
+          "value": 600
+        },
+        {
+          "question": "Who received Gehazi's punishment along with him?",
+          "options": ["His brother", "His servants", "His seed forever", "His wife"],
+          "correctAnswer": "His seed forever",
+          "value": 800
+        },
+        {
+          "question": "What color was Gehazi's skin after the curse?",
+          "options": ["Yellow as gold", "Black as coal", "White as snow", "Red as blood"],
+          "correctAnswer": "White as snow",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Prophetic Acts",
+      "questions": [
+        {
+          "question": "What did Elisha prophesy would happen to the famine in Samaria?",
+          "options": ["Rain in three days", "Seven years of plenty", "Abundance tomorrow", "Food from heaven"],
+          "correctAnswer": "Abundance tomorrow",
+          "value": 200
+        },
+        {
+          "question": "Who doubted Elisha's prophecy about the famine ending?",
+          "options": ["The king", "Gehazi", "A lord on whose hand the king leaned", "The captain"],
+          "correctAnswer": "A lord on whose hand the king leaned",
+          "value": 400
+        },
+        {
+          "question": "What happened to the doubting lord?",
+          "options": ["Drowned in Jordan", "Killed by Syrians", "Trampled at the gate", "Struck by leprosy"],
+          "correctAnswer": "Trampled at the gate",
+          "value": 600
+        },
+        {
+          "question": "Who discovered the abandoned Syrian camp?",
+          "options": ["Jehu", "Elisha", "Four lepers", "The king's messengers"],
+          "correctAnswer": "Four lepers",
+          "value": 800
+        },
+        {
+          "question": "What did the lepers find in the Syrian camp?",
+          "options": ["Prisoners", "Horses", "Food, garments, silver, gold", "Weapons"],
+          "correctAnswer": "Food, garments, silver, gold",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Shunammite Woman",
+      "questions": [
+        {
+          "question": "What did the Shunammite woman provide for Elisha?",
+          "options": ["A servant", "Gold", "A chamber with bed, table, stool, candlestick", "A chariot"],
+          "correctAnswer": "A chamber with bed, table, stool, candlestick",
+          "value": 200
+        },
+        {
+          "question": "What promise did Elisha make to the Shunammite?",
+          "options": ["Her husband would live", "Her land would prosper", "She would have a son", "She would be healed"],
+          "correctAnswer": "She would have a son",
+          "value": 400
+        },
+        {
+          "question": "What happened to the Shunammite's son in the field?",
+          "options": ["He ran away", "He fell ill", "His head pained him and he died", "He was kidnapped"],
+          "correctAnswer": "His head pained him and he died",
+          "value": 600
+        },
+        {
+          "question": "How did Elisha raise the Shunammite's son?",
+          "options": ["Using his staff", "Striking the ground", "Lying upon him mouth to mouth", "Praying over him"],
+          "correctAnswer": "Lying upon him mouth to mouth",
+          "value": 800
+        },
+        {
+          "question": "What did Elisha prophesy about the Shunammite's land?",
+          "options": ["Sold to Syrians", "Destroyed", "Restored after seven years", "Taken by the king"],
+          "correctAnswer": "Restored after seven years",
+          "value": 1000
+        }
+      ]
+    }
+  ]
+}
