@@ -1,0 +1,284 @@
+{
+  "categories": [
+    {
+      "name": "Hezekiah's Prayer",
+      "questions": [
+        {
+          "question": "Who sent Rabshakeh to Jerusalem with a great army?",
+          "options": ["Sennacherib", "Shalmaneser", "Tiglath-pileser", "Pul"],
+          "correctAnswer": "Sennacherib",
+          "value": 200
+        },
+        {
+          "question": "What did Rabshakeh say the people of Jerusalem would eat and drink?",
+          "options": ["Their own dung and urine", "Bread and water", "Nothing", "The king's provisions"],
+          "correctAnswer": "Their own dung and urine",
+          "value": 400
+        },
+        {
+          "question": "Who tore his clothes and covered himself with sackcloth after hearing Rabshakeh?",
+          "options": ["Isaiah", "Hezekiah", "Eliakim", "Shebna"],
+          "correctAnswer": "Hezekiah",
+          "value": 600
+        },
+        {
+          "question": "What did Isaiah say the Lord would put in Sennacherib?",
+          "options": ["A hook in his nose", "A sword in his hand", "Fear in his heart", "A crown on his head"],
+          "correctAnswer": "A hook in his nose",
+          "value": 800
+        },
+        {
+          "question": "How many Assyrians did the angel of the Lord smite in one night?",
+          "options": ["One hundred and fourscore and five thousand", "Fifty thousand", "Ten thousand", "All of them"],
+          "correctAnswer": "One hundred and fourscore and five thousand",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Hezekiah's Illness",
+      "questions": [
+        {
+          "question": "What did Isaiah tell Hezekiah to set in order?",
+          "options": ["His army", "His house", "His temple", "His kingdom"],
+          "correctAnswer": "His house",
+          "value": 200
+        },
+        {
+          "question": "What did Hezekiah turn his face toward to pray?",
+          "options": ["The wall", "The east", "The temple", "The window"],
+          "correctAnswer": "The wall",
+          "value": 400
+        },
+        {
+          "question": "What fig-based remedy did Isaiah apply to Hezekiah's boil?",
+          "options": ["A lump of figs", "Fig leaves", "Fig oil", "Fig wine"],
+          "correctAnswer": "A lump of figs",
+          "value": 600
+        },
+        {
+          "question": "How many years were added to Hezekiah's life?",
+          "options": ["Ten", "Fifteen", "Twenty", "Thirty"],
+          "correctAnswer": "Fifteen",
+          "value": 800
+        },
+        {
+          "question": "What sign did the Lord give that the shadow would go back ten degrees?",
+          "options": ["On the dial of Ahaz", "By the sun standing still", "By a star", "By the moon"],
+          "correctAnswer": "On the dial of Ahaz",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Babylonian Envoys",
+      "questions": [
+        {
+          "question": "Who sent letters and a present to Hezekiah?",
+          "options": ["Merodach-baladan", "Nebuchadnezzar", "Evil-merodach", "Belshazzar"],
+          "correctAnswer": "Merodach-baladan",
+          "value": 200
+        },
+        {
+          "question": "What did Hezekiah show the Babylonian envoys?",
+          "options": ["His armor", "All his treasures", "His army", "His wives"],
+          "correctAnswer": "All his treasures",
+          "value": 400
+        },
+        {
+          "question": "What did Isaiah say would be carried to Babylon?",
+          "options": ["Hezekiah's sons", "The temple vessels", "All the treasures", "The people"],
+          "correctAnswer": "All the treasures",
+          "value": 600
+        },
+        {
+          "question": "Who would be carried away to Babylon according to Isaiah?",
+          "options": ["Hezekiah's sons", "The priests", "The king", "The prophets"],
+          "correctAnswer": "Hezekiah's sons",
+          "value": 800
+        },
+        {
+          "question": "How did Hezekiah respond to Isaiah's prophecy?",
+          "options": ["There shall be peace in my days", "He wept", "He prayed", "He rebelled"],
+          "correctAnswer": "There shall be peace in my days",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Manasseh's Reign",
+      "questions": [
+        {
+          "question": "How old was Manasseh when he began to reign?",
+          "options": ["Twelve", "Twenty-two", "Eight", "Thirty-five"],
+          "correctAnswer": "Twelve",
+          "value": 200
+        },
+        {
+          "question": "How long did Manasseh reign in Jerusalem?",
+          "options": ["Fifty-five years", "Thirty-one years", "Twenty-nine years", "Forty-one years"],
+          "correctAnswer": "Fifty-five years",
+          "value": 400
+        },
+        {
+          "question": "Where did Manasseh build altars for all the host of heaven?",
+          "options": ["In the two courts of the house of the Lord", "On the hills", "In the streets", "In his palace"],
+          "correctAnswer": "In the two courts of the house of the Lord",
+          "value": 600
+        },
+        {
+          "question": "What did Manasseh cause his son to pass through?",
+          "options": ["The fire", "The water", "The sword", "The wilderness"],
+          "correctAnswer": "The fire",
+          "value": 800
+        },
+        {
+          "question": "Who took Manasseh with hooks to Babylon?",
+          "options": ["The king of Assyria", "Nebuchadnezzar", "Sennacherib", "Shalmaneser"],
+          "correctAnswer": "The king of Assyria",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Amon and Josiah",
+      "questions": [
+        {
+          "question": "How old was Amon when he began to reign?",
+          "options": ["Twenty-two", "Eighteen", "Twelve", "Thirty"],
+          "correctAnswer": "Twenty-two",
+          "value": 200
+        },
+        {
+          "question": "How long did Amon reign in Jerusalem?",
+          "options": ["Two years", "Thirty-one years", "Fifty-five years", "Eight years"],
+          "correctAnswer": "Two years",
+          "value": 400
+        },
+        {
+          "question": "Who conspired against Amon and slew him in his own house?",
+          "options": ["His servants", "The people of the land", "His sons", "The priests"],
+          "correctAnswer": "His servants",
+          "value": 600
+        },
+        {
+          "question": "How old was Josiah when he began to reign?",
+          "options": ["Eight", "Twelve", "Twenty-two", "Thirty-one"],
+          "correctAnswer": "Eight",
+          "value": 800
+        },
+        {
+          "question": "In what year of Josiah's reign was the book of the law found?",
+          "options": ["The eighteenth year", "The eighth year", "The twelfth year", "The thirty-first year"],
+          "correctAnswer": "The eighteenth year",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Josiah's Reforms",
+      "questions": [
+        {
+          "question": "Who read the book of the law in the ears of all the people?",
+          "options": ["Shaphan the scribe", "Hilkiah the priest", "Josiah", "Ahikam"],
+          "correctAnswer": "Shaphan the scribe",
+          "value": 200
+        },
+        {
+          "question": "What did Josiah do to his clothes when he heard the words of the law?",
+          "options": ["Tore them", "Burned them", "Washed them", "Hid them"],
+          "correctAnswer": "Tore them",
+          "value": 400
+        },
+        {
+          "question": "Who did Josiah send to inquire of the Lord?",
+          "options": ["Hilkiah, Ahikam, Achbor, Shaphan, Asahiah", "The elders", "The priests", "The prophets"],
+          "correctAnswer": "Hilkiah, Ahikam, Achbor, Shaphan, Asahiah",
+          "value": 600
+        },
+        {
+          "question": "Who was the husband of the prophetess Huldah?",
+          "options": ["Shallum the son of Tikvah", "Hilkiah", "Ahikam", "Shaphan"],
+          "correctAnswer": "Shallum the son of Tikvah",
+          "value": 800
+        },
+        {
+          "question": "What did Josiah remove from the temple?",
+          "options": ["All the abominations", "The ark", "The mercy seat", "The candlestick"],
+          "correctAnswer": "All the abominations",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Fall of Jerusalem",
+      "questions": [
+        {
+          "question": "Who made Jehoahaz king in place of Josiah?",
+          "options": ["The people of the land", "Pharaoh-nechoh", "Nebuchadnezzar", "The priests"],
+          "correctAnswer": "The people of the land",
+          "value": 200
+        },
+        {
+          "question": "Who put Jehoahaz in bands and carried him to Egypt?",
+          "options": ["Pharaoh-nechoh", "Nebuchadnezzar", "Evil-merodach", "The king of Assyria"],
+          "correctAnswer": "Pharaoh-nechoh",
+          "value": 400
+        },
+        {
+          "question": "Who did Pharaoh-nechoh make king in Judah?",
+          "options": ["Jehoiakim", "Zedekiah", "Jehoahaz", "Mattaniah"],
+          "correctAnswer": "Jehoiakim",
+          "value": 600
+        },
+        {
+          "question": "Who besieged Jerusalem in the ninth year of Zedekiah?",
+          "options": ["Nebuchadnezzar", "Pharaoh-nechoh", "The king of Assyria", "The king of Babylon"],
+          "correctAnswer": "Nebuchadnezzar",
+          "value": 800
+        },
+        {
+          "question": "What month and day did Jerusalem fall to Babylon?",
+          "options": ["The ninth day of the fourth month", "The tenth day of the fifth month", "The seventh day of the seventh month", "The first day of the first month"],
+          "correctAnswer": "The ninth day of the fourth month",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Babylonian Captivity",
+      "questions": [
+        {
+          "question": "Who was appointed governor over the people left in the land?",
+          "options": ["Gedaliah", "Seraiah", "Neriah", "Baruch"],
+          "correctAnswer": "Gedaliah",
+          "value": 200
+        },
+        {
+          "question": "Who slew Gedaliah in the seventh month?",
+          "options": ["Ishmael the son of Nethaniah", "Johanan", "Seraiah", "Baalis"],
+          "correctAnswer": "Ishmael the son of Nethaniah",
+          "value": 400
+        },
+        {
+          "question": "How many years after the captivity did Evil-merodach bring Jehoiachin out of prison?",
+          "options": ["The seven and thirtieth year", "The first year", "The twelfth year", "The twenty-fifth year"],
+          "correctAnswer": "The seven and thirtieth year",
+          "value": 600
+        },
+        {
+          "question": "What did Evil-merodach give Jehoiachin above the other kings?",
+          "options": ["A seat above the kings", "More gold", "A larger prison", "A crown"],
+          "correctAnswer": "A seat above the kings",
+          "value": 800
+        },
+        {
+          "question": "What did Jehoiachin do continually as long as he lived?",
+          "options": ["Did eat bread before the king", "Wore sackcloth", "Prayed in prison", "Wrote psalms"],
+          "correctAnswer": "Did eat bread before the king",
+          "value": 1000
+        }
+      ]
+    }
+  ]
+}
