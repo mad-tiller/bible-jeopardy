@@ -1,0 +1,284 @@
+{
+  "categories": [
+    {
+      "name": "Kings of Israel",
+      "questions": [
+        {
+          "question": "Who succeeded Jehu as king of Israel?",
+          "options": ["Jehoahaz", "Joash", "Jeroboam II", "Ahaziah"],
+          "correctAnswer": "Jehoahaz",
+          "value": 200
+        },
+        {
+          "question": "How long did Jehoahaz reign in Samaria?",
+          "options": ["Twenty years", "Seventeen years", "Thirteen years", "Ten years"],
+          "correctAnswer": "Seventeen years",
+          "value": 400
+        },
+        {
+          "question": "Who succeeded Jehoahaz as king of Israel?",
+          "options": ["Jeroboam II", "Joash", "Jehu", "Elisha"],
+          "correctAnswer": "Joash",
+          "value": 600
+        },
+        {
+          "question": "How long did Joash reign in Samaria?",
+          "options": ["Sixteen years", "Twenty-eight years", "Forty-one years", "Twelve years"],
+          "correctAnswer": "Sixteen years",
+          "value": 800
+        },
+        {
+          "question": "Who succeeded Joash as king of Israel?",
+          "options": ["Zechariah", "Jeroboam II", "Shallum", "Menahem"],
+          "correctAnswer": "Jeroboam II",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Elisha's Final Days",
+      "questions": [
+        {
+          "question": "What did Elisha tell Joash to do with the arrows?",
+          "options": ["Shoot them out the window", "Smite the ground", "Break them", "Burn them"],
+          "correctAnswer": "Smite the ground",
+          "value": 200
+        },
+        {
+          "question": "How many times did Joash smite the ground?",
+          "options": ["Five or six times", "Three times", "Once", "Seven times"],
+          "correctAnswer": "Three times",
+          "value": 400
+        },
+        {
+          "question": "Why was Elisha angry with Joash?",
+          "options": ["He should have smitten five or six times", "He smote too many times", "He refused to shoot", "He broke the bow"],
+          "correctAnswer": "He should have smitten five or six times",
+          "value": 600
+        },
+        {
+          "question": "What happened to a dead man thrown into Elisha's sepulchre?",
+          "options": ["He remained dead", "He revived and stood up", "He turned to dust", "He was buried elsewhere"],
+          "correctAnswer": "He revived and stood up",
+          "value": 800
+        },
+        {
+          "question": "Who was buried in the city of Samaria?",
+          "options": ["Joash", "Elisha", "Jehoahaz", "Jeroboam II"],
+          "correctAnswer": "Elisha",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Hazael's Oppression",
+      "questions": [
+        {
+          "question": "Who oppressed Israel all the days of Jehoahaz?",
+          "options": ["Ben-hadad", "Rezin", "Hazael", "Tiglath-pileser"],
+          "correctAnswer": "Hazael",
+          "value": 200
+        },
+        {
+          "question": "How many chariots did Jehoahaz have left?",
+          "options": ["Ten", "Fifty", "One hundred", "None"],
+          "correctAnswer": "Ten",
+          "value": 400
+        },
+        {
+          "question": "How many horsemen did Jehoahaz have left?",
+          "options": ["Ten thousand", "Five hundred", "Fifty", "None"],
+          "correctAnswer": "Ten thousand",
+          "value": 600
+        },
+        {
+          "question": "How many footmen did Jehoahaz have left?",
+          "options": ["Fifty thousand", "Ten", "Fifty", "Five hundred"],
+          "correctAnswer": "Fifty",
+          "value": 800
+        },
+        {
+          "question": "Who succeeded Hazael as king of Syria?",
+          "options": ["Rezin", "Tiglath-pileser", "Ben-hadad", "Shalmaneser"],
+          "correctAnswer": "Ben-hadad",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Joash's Victories",
+      "questions": [
+        {
+          "question": "How many times did Joash defeat Ben-hadad?",
+          "options": ["Once", "Three times", "Five times", "Seven times"],
+          "correctAnswer": "Three times",
+          "value": 200
+        },
+        {
+          "question": "What did Joash recover out of the hand of Ben-hadad?",
+          "options": ["The cities of Israel", "Samaria", "Jerusalem", "The ark"],
+          "correctAnswer": "The cities of Israel",
+          "value": 400
+        },
+        {
+          "question": "Who had taken the cities from Jehoahaz?",
+          "options": ["Hazael", "Ben-hadad", "Rezin", "Tiglath-pileser"],
+          "correctAnswer": "Hazael",
+          "value": 600
+        },
+        {
+          "question": "What did Amaziah king of Judah do after defeating Edom?",
+          "options": ["Sent messengers to Joash", "Built a temple", "Made peace", "Fled to Lachish"],
+          "correctAnswer": "Sent messengers to Joash",
+          "value": 800
+        },
+        {
+          "question": "What happened to the wall of Jerusalem under Joash?",
+          "options": ["From the gate of Ephraim unto the corner gate, four hundred cubits", "It was rebuilt", "It fell completely", "It was untouched"],
+          "correctAnswer": "From the gate of Ephraim unto the corner gate, four hundred cubits",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Amaziah of Judah",
+      "questions": [
+        {
+          "question": "How old was Amaziah when he began to reign?",
+          "options": ["Twenty-five", "Thirty", "Eighteen", "Forty-two"],
+          "correctAnswer": "Twenty-five",
+          "value": 200
+        },
+        {
+          "question": "How long did Amaziah reign in Jerusalem?",
+          "options": ["Twenty-nine years", "Fifteen years", "Fifty-two years", "Forty-one years"],
+          "correctAnswer": "Twenty-nine years",
+          "value": 400
+        },
+        {
+          "question": "Who was Amaziah's mother?",
+          "options": ["Jehoaddan", "Athaliah", "Zibiah", "Maachah"],
+          "correctAnswer": "Jehoaddan",
+          "value": 600
+        },
+        {
+          "question": "What did Amaziah do to the servants who slew his father?",
+          "options": ["Slew their children", "Put them to death", "Banished them", "Promoted them"],
+          "correctAnswer": "Put them to death",
+          "value": 800
+        },
+        {
+          "question": "Where did Amaziah flee when he turned from Jerusalem?",
+          "options": ["Lachish", "Samaria", "Damascus", "Gath"],
+          "correctAnswer": "Lachish",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Jeroboam II",
+      "questions": [
+        {
+          "question": "How long did Jeroboam II reign in Samaria?",
+          "options": ["Forty-one years", "Twenty-eight years", "Sixteen years", "Seventeen years"],
+          "correctAnswer": "Forty-one years",
+          "value": 200
+        },
+        {
+          "question": "What did Jeroboam restore from the entering of Hamath unto what sea?",
+          "options": ["The Dead Sea", "The Sea of the Plain", "The Great Sea", "The Red Sea"],
+          "correctAnswer": "The Sea of the Plain",
+          "value": 400
+        },
+        {
+          "question": "According to whose word did Jeroboam recover Damascus and Hamath?",
+          "options": ["Jonah the prophet", "Elisha", "Elijah", "Amos"],
+          "correctAnswer": "Jonah the prophet",
+          "value": 600
+        },
+        {
+          "question": "Who succeeded Jeroboam II as king of Israel?",
+          "options": ["Menahem", "Zechariah", "Shallum", "Pekahiah"],
+          "correctAnswer": "Zechariah",
+          "value": 800
+        },
+        {
+          "question": "How long did Zechariah reign in Samaria?",
+          "options": ["Six months", "One year", "Ten days", "Forty days"],
+          "correctAnswer": "Six months",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Decline of Israel",
+      "questions": [
+        {
+          "question": "Who smote Zechariah and slew him before the people?",
+          "options": ["Shallum", "Menahem", "Pekah", "Hoshea"],
+          "correctAnswer": "Shallum",
+          "value": 200
+        },
+        {
+          "question": "How long did Shallum reign in Samaria?",
+          "options": ["One month", "One year", "Six months", "Ten days"],
+          "correctAnswer": "One month",
+          "value": 400
+        },
+        {
+          "question": "Who came from Tirzah and smote Shallum?",
+          "options": ["Pekah", "Menahem", "Hoshea", "Tiglath-pileser"],
+          "correctAnswer": "Menahem",
+          "value": 600
+        },
+        {
+          "question": "How long did Menahem reign in Samaria?",
+          "options": ["Ten years", "Two years", "Twenty years", "Five years"],
+          "correctAnswer": "Ten years",
+          "value": 800
+        },
+        {
+          "question": "Who gave Menahem a thousand talents of silver?",
+          "options": ["Pul king of Assyria", "Tiglath-pileser", "Shalmaneser", "Sennacherib"],
+          "correctAnswer": "Pul king of Assyria",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Assyrian Threat",
+      "questions": [
+        {
+          "question": "Who succeeded Menahem as king of Israel?",
+          "options": ["Hoshea", "Pekah", "Pekahiah", "Shallum"],
+          "correctAnswer": "Pekahiah",
+          "value": 200
+        },
+        {
+          "question": "How long did Pekahiah reign in Samaria?",
+          "options": ["Two years", "Ten years", "Fifty days", "Six months"],
+          "correctAnswer": "Two years",
+          "value": 400
+        },
+        {
+          "question": "Who conspired against Pekahiah and slew him in Samaria?",
+          "options": ["Hoshea", "Remaliah's son Pekah", "Tiglath-pileser", "Argob"],
+          "correctAnswer": "Remaliah's son Pekah",
+          "value": 600
+        },
+        {
+          "question": "How long did Pekah reign in Samaria?",
+          "options": ["Twenty years", "Twelve years", "Two years", "Five years"],
+          "correctAnswer": "Twenty years",
+          "value": 800
+        },
+        {
+          "question": "Who carried away the Reubenites, Gadites, and half tribe of Manasseh?",
+          "options": ["Shalmaneser", "Sennacherib", "Tiglath-pileser", "Pul"],
+          "correctAnswer": "Tiglath-pileser",
+          "value": 1000
+        }
+      ]
+    }
+  ]
+}
