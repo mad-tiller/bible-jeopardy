@@ -4,7 +4,9 @@
     { "file": "questions_1kings8-13.json", "title": "1 Kings 8-13 (KJV)" },
     { "file": "questions_1kings14-22.json", "title": "1 Kings 14-22 (KJV)" },
     { "file": "questions_2kings1-6.json", "title": "2 Kings 1-6 (KJV)" },
-    { "file": "questions_2kings7-12.json", "title": "2 Kings 7-12 (KJV)" }
+    { "file": "questions_2kings7-12.json", "title": "2 Kings 7-12 (KJV)" },
+    { "file": "questions_2kings13-18.json", "title": "2 Kings 13-18 (KJV)" }
   ]
 }
+
 
