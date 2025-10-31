@@ -1,0 +1,285 @@
+{
+  "categories": [
+    {
+      "name": "End of the Siege",
+      "questions": [
+        {
+          "question": "How much did the lepers say a measure of fine flour would cost the next day?",
+          "options": ["Five shekels", "A shekel", "Ten shekels", "Two shekels"],
+          "correctAnswer": "A shekel",
+          "value": 200
+        },
+        {
+          "question": "What did the doubting lord say would not happen even if the Lord made windows in heaven?",
+          "options": ["Rain would fall", "The king would die", "Food would be plentiful", "Syrians would return"],
+          "correctAnswer": "Food would be plentiful",
+          "value": 400
+        },
+        {
+          "question": "Where was the doubting lord stationed when the people went out?",
+          "options": ["The palace", "The market", "The gate", "The wall"],
+          "correctAnswer": "The gate",
+          "value": 600
+        },
+        {
+          "question": "What happened to the doubting lord at the gate?",
+          "options": ["He fled", "He was healed", "He was trampled to death", "He was promoted"],
+          "correctAnswer": "He was trampled to death",
+          "value": 800
+        },
+        {
+          "question": "Who reported the abundance of food to the king?",
+          "options": ["The lepers", "Elisha", "The gatekeepers", "The Syrians"],
+          "correctAnswer": "The gatekeepers",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Shunammite's Return",
+      "questions": [
+        {
+          "question": "How long did the Shunammite woman sojourn in the land of the Philistines?",
+          "options": ["Three years", "Ten years", "Seven years", "Five years"],
+          "correctAnswer": "Seven years",
+          "value": 200
+        },
+        {
+          "question": "What did the Shunammite woman cry to the king for?",
+          "options": ["Food", "Her son", "Her house and land", "Protection"],
+          "correctAnswer": "Her house and land",
+          "value": 400
+        },
+        {
+          "question": "Who was talking with the king about Elisha raising her son when she arrived?",
+          "options": ["Jehu", "The captain", "Gehazi", "A servant"],
+          "correctAnswer": "Gehazi",
+          "value": 600
+        },
+        {
+          "question": "What did the king command to be restored to the Shunammite?",
+          "options": ["Her house only", "Gold and silver", "All that was hers and the fruits of the field", "Her son only"],
+          "correctAnswer": "All that was hers and the fruits of the field",
+          "value": 800
+        },
+        {
+          "question": "Who restored the Shunammite's land by the king's command?",
+          "options": ["Elisha", "Gehazi", "An officer", "The priest"],
+          "correctAnswer": "An officer",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Hazael's Rise",
+      "questions": [
+        {
+          "question": "Who did Elisha say would become king over Syria?",
+          "options": ["Ben-hadad", "Rezin", "Hazael", "Naaman"],
+          "correctAnswer": "Hazael",
+          "value": 200
+        },
+        {
+          "question": "What did Elisha weep about concerning Hazael?",
+          "options": ["His death", "His leprosy", "The evil he would do to Israel", "His defeat"],
+          "correctAnswer": "The evil he would do to Israel",
+          "value": 400
+        },
+        {
+          "question": "What lie did Hazael tell Ben-hadad about Elisha's message?",
+          "options": ["Thou art healed", "Thou shalt surely die", "Thou shalt surely recover", "Thou shalt not recover"],
+          "correctAnswer": "Thou shalt surely recover",
+          "value": 600
+        },
+        {
+          "question": "How did Hazael kill Ben-hadad?",
+          "options": ["With poison", "With a sword", "With a thick cloth dipped in water", "By strangling"],
+          "correctAnswer": "With a thick cloth dipped in water",
+          "value": 800
+        },
+        {
+          "question": "What did Hazael do the day after killing Ben-hadad?",
+          "options": ["Buried him", "Fled to Damascus", "Reigned in his stead", "Mourned for him"],
+          "correctAnswer": "Mourned for him",
+          "correctAnswer": "Reigned in his stead",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Jehoram of Judah",
+      "questions": [
+        {
+          "question": "Who was Jehoram of Judah's wife?",
+          "options": ["Jezebel", "The Shunammite", "Athaliah", "Maachah"],
+          "correctAnswer": "Athaliah",
+          "value": 200
+        },
+        {
+          "question": "How old was Jehoram when he began to reign in Judah?",
+          "options": ["Twenty-two", "Forty", "Thirty-two", "Twenty-five"],
+          "correctAnswer": "Thirty-two",
+          "value": 400
+        },
+        {
+          "question": "How long did Jehoram reign in Jerusalem?",
+          "options": ["Twelve years", "Seven years", "Eight years", "Ten years"],
+          "correctAnswer": "Eight years",
+          "value": 600
+        },
+        {
+          "question": "What did Jehoram do to his brethren?",
+          "options": ["Made them priests", "Banished them", "Slew them with the sword", "Gave them cities"],
+          "correctAnswer": "Slew them with the sword",
+          "value": 800
+        },
+        {
+          "question": "What did the Philistines and Arabians take from Jehoram?",
+          "options": ["His gold", "His cattle", "His wives and sons except Ahaziah", "His throne"],
+          "correctAnswer": "His wives and sons except Ahaziah",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Ahaziah of Judah",
+      "questions": [
+        {
+          "question": "Who was Ahaziah's mother?",
+          "options": ["Jezebel", "Maachah", "Athaliah", "The Shunammite"],
+          "correctAnswer": "Athaliah",
+          "value": 200
+        },
+        {
+          "question": "How old was Ahaziah when he began to reign?",
+          "options": ["Forty-two", "Eighteen", "Twenty-two", "Thirty"],
+          "correctAnswer": "Twenty-two",
+          "value": 400
+        },
+        {
+          "question": "How long did Ahaziah reign in Jerusalem?",
+          "options": ["Seven years", "Two years", "One year", "Twelve years"],
+          "correctAnswer": "One year",
+          "value": 600
+        },
+        {
+          "question": "Who was Ahaziah's counselor to do wickedly?",
+          "options": ["His father", "The priests", "His mother’s brethren", "Jehu"],
+          "correctAnswer": "His mother’s brethren",
+          "value": 800
+        },
+        {
+          "question": "Where did Ahaziah go to visit Joram who was sick?",
+          "options": ["Jerusalem", "Samaria", "Jezreel", "Ramoth-gilead"],
+          "correctAnswer": "Jezreel",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Jehu's Anointing",
+      "questions": [
+        {
+          "question": "Who sent a young prophet to anoint Jehu?",
+          "options": ["Elijah", "The priests", "Elisha", "Jehoram"],
+          "correctAnswer": "Elisha",
+          "value": 200
+        },
+        {
+          "question": "Where was Jehu when he was anointed?",
+          "options": ["In Jezreel", "In the palace", "In Ramoth-gilead", "In Samaria"],
+          "correctAnswer": "In Ramoth-gilead",
+          "value": 400
+        },
+        {
+          "question": "What did the prophet pour on Jehu's head?",
+          "options": ["Water", "Wine", "Oil", "Blood"],
+          "correctAnswer": "Oil",
+          "value": 600
+        },
+        {
+          "question": "What was Jehu commanded to destroy?",
+          "options": ["The temple", "The idols", "The house of Ahab", "The city"],
+          "correctAnswer": "The house of Ahab",
+          "value": 800
+        },
+        {
+          "question": "What did Jehu's fellow captains do when they heard he was anointed?",
+          "options": ["Arrested him", "Fled", "Blew trumpets and said Jehu is king", "Laughed"],
+          "correctAnswer": "Blew trumpets and said Jehu is king",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Jehu's Purge",
+      "questions": [
+        {
+          "question": "Who did Jehu shoot with an arrow between the arms?",
+          "options": ["The captain", "Ahaziah", "Jehoram", "A servant"],
+          "correctAnswer": "Jehoram",
+          "value": 200
+        },
+        {
+          "question": "Where was Jehoram's body cast?",
+          "options": ["In the palace", "In the river", "In the field of Naboth", "In Samaria"],
+          "correctAnswer": "In the field of Naboth",
+          "value": 400
+        },
+        {
+          "question": "Who fled to Megiddo and died there after being wounded?",
+          "options": ["Jehoram", "Jehu", "Ahaziah", "The captain"],
+          "correctAnswer": "Ahaziah",
+          "value": 600
+        },
+        {
+          "question": "What happened to Jezebel when she was thrown down from the window?",
+          "options": ["She was caught", "She fled", "She was trampled by horses", "She was healed"],
+          "correctAnswer": "She was trampled by horses",
+          "value": 800
+        },
+        {
+          "question": "What was left of Jezebel after the dogs ate her?",
+          "options": ["Her crown", "Nothing", "Skull, feet, and palms of hands", "Her clothes"],
+          "correctAnswer": "Skull, feet, and palms of hands",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Ahab's House Destroyed",
+      "questions": [
+        {
+          "question": "How many sons of Ahab were in Samaria?",
+          "options": ["Forty", "One hundred", "Seventy", "Fifty"],
+          "correctAnswer": "Seventy",
+          "value": 200
+        },
+        {
+          "question": "What did Jehu command the rulers of Jezreel to do with Ahab's sons?",
+          "options": ["Hide them", "Send them to him alive", "Bring their heads in baskets", "Kill them and flee"],
+          "correctAnswer": "Bring their heads in baskets",
+          "value": 400
+        },
+        {
+          "question": "Who killed the brethren of Ahaziah at the shearing house?",
+          "options": ["Jehu", "The people of Samaria", "Jehu's men", "The priests"],
+          "correctAnswer": "Jehu's men",
+          "value": 600
+        },
+        {
+          "question": "Who did Jehu meet on the way who joined him after saying 'Is thine heart right'?",
+          "options": ["The high priest", "Elisha", "Jonadab the son of Rechab", "Gehazi"],
+          "correctAnswer": "Jonadab the son of Rechab",
+          "value": 800
+        },
+        {
+          "question": "What did Jehu destroy in the house of Baal?",
+          "options": ["The altar only", "The priests only", "The images and the house", "The offerings"],
+          "correctAnswer": "The images and the house",
+          "value": 1000
+        }
+      ]
+    }
+  ]
+}
