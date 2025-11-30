@@ -5,31 +5,31 @@
       "questions": [
         {
           "question": "How much did the lepers say a measure of fine flour would cost the next day?",
-          "options": ["Five shekels", "A shekel", "Ten shekels", "Two shekels"],
+          "options": ["Two shekels", "Ten shekels", "Five shekels", "A shekel"],
           "correctAnswer": "A shekel",
           "value": 200
         },
         {
           "question": "What did the doubting lord say would not happen even if the Lord made windows in heaven?",
-          "options": ["Rain would fall", "The king would die", "Food would be plentiful", "Syrians would return"],
+          "options": ["Syrians would return", "Food would be plentiful", "Rain would fall", "The king would die"],
           "correctAnswer": "Food would be plentiful",
           "value": 400
         },
         {
           "question": "Where was the doubting lord stationed when the people went out?",
-          "options": ["The palace", "The market", "The gate", "The wall"],
+          "options": ["The market", "The wall", "The palace", "The gate"],
           "correctAnswer": "The gate",
           "value": 600
         },
         {
           "question": "What happened to the doubting lord at the gate?",
-          "options": ["He fled", "He was healed", "He was trampled to death", "He was promoted"],
+          "options": ["He was healed", "He was trampled to death", "He fled", "He was promoted"],
           "correctAnswer": "He was trampled to death",
           "value": 800
         },
         {
           "question": "Who reported the abundance of food to the king?",
-          "options": ["The lepers", "Elisha", "The gatekeepers", "The Syrians"],
+          "options": ["The lepers", "The gatekeepers", "Elisha", "The Syrians"],
           "correctAnswer": "The gatekeepers",
           "value": 1000
         }
@@ -40,31 +40,31 @@
       "questions": [
         {
           "question": "How long did the Shunammite woman sojourn in the land of the Philistines?",
-          "options": ["Three years", "Ten years", "Seven years", "Five years"],
+          "options": ["Five years", "Seven years", "Three years", "Ten years"],
           "correctAnswer": "Seven years",
           "value": 200
         },
         {
           "question": "What did the Shunammite woman cry to the king for?",
-          "options": ["Food", "Her son", "Her house and land", "Protection"],
+          "options": ["Her son", "Her house and land", "Protection", "Food"],
           "correctAnswer": "Her house and land",
           "value": 400
         },
         {
           "question": "Who was talking with the king about Elisha raising her son when she arrived?",
-          "options": ["Jehu", "The captain", "Gehazi", "A servant"],
+          "options": ["The captain", "Gehazi", "Jehu", "A servant"],
           "correctAnswer": "Gehazi",
           "value": 600
         },
         {
           "question": "What did the king command to be restored to the Shunammite?",
-          "options": ["Her house only", "Gold and silver", "All that was hers and the fruits of the field", "Her son only"],
+          "options": ["Her son only", "All that was hers and the fruits of the field", "Gold and silver", "Her house only"],
           "correctAnswer": "All that was hers and the fruits of the field",
           "value": 800
         },
         {
           "question": "Who restored the Shunammite's land by the king's command?",
-          "options": ["Elisha", "Gehazi", "An officer", "The priest"],
+          "options": ["An officer", "Elisha", "The priest", "Gehazi"],
           "correctAnswer": "An officer",
           "value": 1000
         }
@@ -75,32 +75,31 @@
       "questions": [
         {
           "question": "Who did Elisha say would become king over Syria?",
-          "options": ["Ben-hadad", "Rezin", "Hazael", "Naaman"],
+          "options": ["Naaman", "Hazael", "Ben-hadad", "Rezin"],
           "correctAnswer": "Hazael",
           "value": 200
         },
         {
           "question": "What did Elisha weep about concerning Hazael?",
-          "options": ["His death", "His leprosy", "The evil he would do to Israel", "His defeat"],
+          "options": ["The evil he would do to Israel", "His death", "His defeat", "His leprosy"],
           "correctAnswer": "The evil he would do to Israel",
           "value": 400
         },
         {
           "question": "What lie did Hazael tell Ben-hadad about Elisha's message?",
-          "options": ["Thou art healed", "Thou shalt surely die", "Thou shalt surely recover", "Thou shalt not recover"],
+          "options": ["Thou shalt not recover", "Thou shalt surely recover", "Thou art healed", "Thou shalt surely die"],
           "correctAnswer": "Thou shalt surely recover",
           "value": 600
         },
         {
           "question": "How did Hazael kill Ben-hadad?",
-          "options": ["With poison", "With a sword", "With a thick cloth dipped in water", "By strangling"],
+          "options": ["With a thick cloth dipped in water", "By strangling", "With poison", "With a sword"],
           "correctAnswer": "With a thick cloth dipped in water",
           "value": 800
         },
         {
           "question": "What did Hazael do the day after killing Ben-hadad?",
-          "options": ["Buried him", "Fled to Damascus", "Reigned in his stead", "Mourned for him"],
-          "correctAnswer": "Mourned for him",
+          "options": ["Mourned for him", "Reigned in his stead", "Buried him", "Fled to Damascus"],
           "correctAnswer": "Reigned in his stead",
           "value": 1000
         }
@@ -111,31 +110,31 @@
       "questions": [
         {
           "question": "Who was Jehoram of Judah's wife?",
-          "options": ["Jezebel", "The Shunammite", "Athaliah", "Maachah"],
+          "options": ["Athaliah", "Jezebel", "Maachah", "The Shunammite"],
           "correctAnswer": "Athaliah",
           "value": 200
         },
         {
           "question": "How old was Jehoram when he began to reign in Judah?",
-          "options": ["Twenty-two", "Forty", "Thirty-two", "Twenty-five"],
+          "options": ["Twenty-five", "Thirty-two", "Forty", "Twenty-two"],
           "correctAnswer": "Thirty-two",
           "value": 400
         },
         {
           "question": "How long did Jehoram reign in Jerusalem?",
-          "options": ["Twelve years", "Seven years", "Eight years", "Ten years"],
+          "options": ["Ten years", "Eight years", "Twelve years", "Seven years"],
           "correctAnswer": "Eight years",
           "value": 600
         },
         {
           "question": "What did Jehoram do to his brethren?",
-          "options": ["Made them priests", "Banished them", "Slew them with the sword", "Gave them cities"],
+          "options": ["Gave them cities", "Slew them with the sword", "Made them priests", "Banished them"],
           "correctAnswer": "Slew them with the sword",
           "value": 800
         },
         {
           "question": "What did the Philistines and Arabians take from Jehoram?",
-          "options": ["His gold", "His cattle", "His wives and sons except Ahaziah", "His throne"],
+          "options": ["His throne", "His wives and sons except Ahaziah", "His gold", "His cattle"],
           "correctAnswer": "His wives and sons except Ahaziah",
           "value": 1000
         }
@@ -146,31 +145,31 @@
       "questions": [
         {
           "question": "Who was Ahaziah's mother?",
-          "options": ["Jezebel", "Maachah", "Athaliah", "The Shunammite"],
+          "options": ["The Shunammite", "Athaliah", "Jezebel", "Maachah"],
           "correctAnswer": "Athaliah",
           "value": 200
         },
         {
           "question": "How old was Ahaziah when he began to reign?",
-          "options": ["Forty-two", "Eighteen", "Twenty-two", "Thirty"],
+          "options": ["Twenty-two", "Forty-two", "Thirty", "Eighteen"],
           "correctAnswer": "Twenty-two",
           "value": 400
         },
         {
           "question": "How long did Ahaziah reign in Jerusalem?",
-          "options": ["Seven years", "Two years", "One year", "Twelve years"],
+          "options": ["One year", "Seven years", "Two years", "Twelve years"],
           "correctAnswer": "One year",
           "value": 600
         },
         {
           "question": "Who was Ahaziah's counselor to do wickedly?",
-          "options": ["His father", "The priests", "His mother’s brethren", "Jehu"],
+          "options": ["His mother’s brethren", "His father", "Jehu", "The priests"],
           "correctAnswer": "His mother’s brethren",
           "value": 800
         },
         {
           "question": "Where did Ahaziah go to visit Joram who was sick?",
-          "options": ["Jerusalem", "Samaria", "Jezreel", "Ramoth-gilead"],
+          "options": ["Jezreel", "Ramoth-gilead", "Jerusalem", "Samaria"],
           "correctAnswer": "Jezreel",
           "value": 1000
         }
@@ -181,31 +180,31 @@
       "questions": [
         {
           "question": "Who sent a young prophet to anoint Jehu?",
-          "options": ["Elijah", "The priests", "Elisha", "Jehoram"],
+          "options": ["The priests", "Elisha", "Jehoram", "Elijah"],
           "correctAnswer": "Elisha",
           "value": 200
         },
         {
           "question": "Where was Jehu when he was anointed?",
-          "options": ["In Jezreel", "In the palace", "In Ramoth-gilead", "In Samaria"],
+          "options": ["In Ramoth-gilead", "In Jezreel", "In Samaria", "In the palace"],
           "correctAnswer": "In Ramoth-gilead",
           "value": 400
         },
         {
           "question": "What did the prophet pour on Jehu's head?",
-          "options": ["Water", "Wine", "Oil", "Blood"],
+          "options": ["Oil", "Blood", "Water", "Wine"],
           "correctAnswer": "Oil",
           "value": 600
         },
         {
           "question": "What was Jehu commanded to destroy?",
-          "options": ["The temple", "The idols", "The house of Ahab", "The city"],
+          "options": ["The house of Ahab", "The temple", "The city", "The idols"],
           "correctAnswer": "The house of Ahab",
           "value": 800
         },
         {
           "question": "What did Jehu's fellow captains do when they heard he was anointed?",
-          "options": ["Arrested him", "Fled", "Blew trumpets and said Jehu is king", "Laughed"],
+          "options": ["Blew trumpets and said Jehu is king", "Laughed", "Fled", "Arrested him"],
           "correctAnswer": "Blew trumpets and said Jehu is king",
           "value": 1000
         }
@@ -216,31 +215,31 @@
       "questions": [
         {
           "question": "Who did Jehu shoot with an arrow between the arms?",
-          "options": ["The captain", "Ahaziah", "Jehoram", "A servant"],
+          "options": ["A servant", "Jehoram", "Ahaziah", "The captain"],
           "correctAnswer": "Jehoram",
           "value": 200
         },
         {
           "question": "Where was Jehoram's body cast?",
-          "options": ["In the palace", "In the river", "In the field of Naboth", "In Samaria"],
+          "options": ["In the field of Naboth", "In Samaria", "In the palace", "In the river"],
           "correctAnswer": "In the field of Naboth",
           "value": 400
         },
         {
           "question": "Who fled to Megiddo and died there after being wounded?",
-          "options": ["Jehoram", "Jehu", "Ahaziah", "The captain"],
+          "options": ["Ahaziah", "The captain", "Jehu", "Jehoram"],
           "correctAnswer": "Ahaziah",
           "value": 600
         },
         {
           "question": "What happened to Jezebel when she was thrown down from the window?",
-          "options": ["She was caught", "She fled", "She was trampled by horses", "She was healed"],
+          "options": ["She was trampled by horses", "She was healed", "She was caught", "She fled"],
           "correctAnswer": "She was trampled by horses",
           "value": 800
         },
         {
           "question": "What was left of Jezebel after the dogs ate her?",
-          "options": ["Her crown", "Nothing", "Skull, feet, and palms of hands", "Her clothes"],
+          "options": ["Skull, feet, and palms of hands", "Her clothes", "Her crown", "Nothing"],
           "correctAnswer": "Skull, feet, and palms of hands",
           "value": 1000
         }
@@ -251,31 +250,31 @@
       "questions": [
         {
           "question": "How many sons of Ahab were in Samaria?",
-          "options": ["Forty", "One hundred", "Seventy", "Fifty"],
+          "options": ["One hundred", "Seventy", "Fifty", "Forty"],
           "correctAnswer": "Seventy",
           "value": 200
         },
         {
           "question": "What did Jehu command the rulers of Jezreel to do with Ahab's sons?",
-          "options": ["Hide them", "Send them to him alive", "Bring their heads in baskets", "Kill them and flee"],
+          "options": ["Bring their heads in baskets", "Kill them and flee", "Send them to him alive", "Hide them"],
           "correctAnswer": "Bring their heads in baskets",
           "value": 400
         },
         {
           "question": "Who killed the brethren of Ahaziah at the shearing house?",
-          "options": ["Jehu", "The people of Samaria", "Jehu's men", "The priests"],
+          "options": ["Jehu's men", "The priests", "Jehu", "The people of Samaria"],
           "correctAnswer": "Jehu's men",
           "value": 600
         },
         {
           "question": "Who did Jehu meet on the way who joined him after saying 'Is thine heart right'?",
-          "options": ["The high priest", "Elisha", "Jonadab the son of Rechab", "Gehazi"],
+          "options": ["Jonadab the son of Rechab", "Gehazi", "The high priest", "Elisha"],
           "correctAnswer": "Jonadab the son of Rechab",
           "value": 800
         },
         {
           "question": "What did Jehu destroy in the house of Baal?",
-          "options": ["The altar only", "The priests only", "The images and the house", "The offerings"],
+          "options": ["The images and the house", "The offerings", "The altar only", "The priests only"],
           "correctAnswer": "The images and the house",
           "value": 1000
         }
