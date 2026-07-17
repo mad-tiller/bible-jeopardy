@@ -1,0 +1,284 @@
+{
+  "categories": [
+    {
+      "name": "Compassion and Miracles",
+      "questions": [
+        {
+          "question": "Who did Jesus heal after the centurion expressed great faith?",
+          "options": ["A leper", "The centurion’s servant", "A blind man", "The centurion himself"],
+          "correctAnswer": "The centurion’s servant",
+          "value": 200
+        },
+        {
+          "question": "Where did Jesus raise the widow’s son?",
+          "options": ["Jericho", "Bethany", "Nain", "Nazareth"],
+          "correctAnswer": "Nain",
+          "value": 400
+        },
+        {
+          "question": "What did Jesus say of John the Baptist?",
+          "options": ["He shall not see death", "Among those born of women none is greater", "He is a prophet only", "He is the least in the kingdom"],
+          "correctAnswer": "Among those born of women none is greater",
+          "value": 600
+        },
+        {
+          "question": "Who washed Jesus’ feet with tears in the Pharisee’s house?",
+          "options": ["Mary Magdalene", "A sinful woman", "Joanna", "Martha"],
+          "correctAnswer": "A sinful woman",
+          "value": 800
+        },
+        {
+          "question": "What did Jesus say her act of love demonstrated?",
+          "options": ["She feared judgment", "She wanted honor", "Her sins were forgiven", "She was seeking healing"],
+          "correctAnswer": "Her sins were forgiven",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Teachings and Parables",
+      "questions": [
+        {
+          "question": "What did Jesus say the seed represents in the parable of the sower?",
+          "options": ["Faith", "The kingdom", "The prophets", "The word of God"],
+          "correctAnswer": "The word of God",
+          "value": 200
+        },
+        {
+          "question": "What happened to the seed that fell on the rock?",
+          "options": ["It grew quickly", "It produced fruit", "It withered away", "It was eaten by birds"],
+          "correctAnswer": "It withered away",
+          "value": 400
+        },
+        {
+          "question": "What did Jesus say is the lamp of the body?",
+          "options": ["The mouth", "The eye", "The heart", "The mind"],
+          "correctAnswer": "The eye",
+          "value": 600
+        },
+        {
+          "question": "What did Jesus say about a divided house?",
+          "options": ["It must be rebuilt", "It cannot stand", "It will be forgotten", "It is cursed"],
+          "correctAnswer": "It cannot stand",
+          "value": 800
+        },
+        {
+          "question": "Who did Jesus say are blessed?",
+          "options": ["They that fast often", "They that pray loudly", "They that give alms", "They that hear the word of God and keep it"],
+          "correctAnswer": "They that hear the word of God and keep it",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Authority and Identity",
+      "questions": [
+        {
+          "question": "What did the disciples fear when Jesus calmed the storm?",
+          "options": ["The storm returning", "The darkness", "The boat sinking", "What manner of man is this"],
+          "correctAnswer": "What manner of man is this",
+          "value": 200
+        },
+        {
+          "question": "Where did Jesus meet the man possessed by many devils?",
+          "options": ["Jericho", "Bethsaida", "Capernaum", "The country of the Gadarenes"],
+          "correctAnswer": "The country of the Gadarenes",
+          "value": 400
+        },
+        {
+          "question": "What was the name of the demon possessing the man?",
+          "options": ["Apollyon", "Legion", "Mammon", "Beelzebub"],
+          "correctAnswer": "Legion",
+          "value": 600
+        },
+        {
+          "question": "Who touched Jesus’ garment and was healed?",
+          "options": ["A widow", "A leper", "A blind beggar", "A woman with an issue of blood"],
+          "correctAnswer": "A woman with an issue of blood",
+          "value": 800
+        },
+        {
+          "question": "Whose daughter did Jesus raise from the dead?",
+          "options": ["Nicodemus", "Simon", "Zebedee", "Jairus"],
+          "correctAnswer": "Jairus",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Sending and Serving",
+      "questions": [
+        {
+          "question": "How many disciples did Jesus send out with power and authority?",
+          "options": ["Seven", "Forty", "Seventy", "Twelve"],
+          "correctAnswer": "Twelve",
+          "value": 200
+        },
+        {
+          "question": "What did Jesus tell them to take for their journey?",
+          "options": ["Extra clothes", "Money", "Food", "Nothing"],
+          "correctAnswer": "Nothing",
+          "value": 400
+        },
+        {
+          "question": "What miracle did Jesus perform when the multitude was hungry?",
+          "options": ["Fed seven thousand", "Sent manna", "Turned stones to bread", "Fed five thousand"],
+          "correctAnswer": "Fed five thousand",
+          "value": 600
+        },
+        {
+          "question": "Who first declared Jesus to be the Christ of God?",
+          "options": ["James", "Andrew", "Peter", "John"],
+          "correctAnswer": "Peter",
+          "value": 800
+        },
+        {
+          "question": "What did Jesus say one must do to follow Him?",
+          "options": ["Learn the law", "Become a teacher", "Sell all possessions", "Deny himself"],
+          "correctAnswer": "Deny himself",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Transfiguration and Teaching",
+      "questions": [
+        {
+          "question": "Who appeared with Jesus during the transfiguration?",
+          "options": ["Abraham and David", "Isaiah and Jeremiah", "Moses and Elijah", "Enoch and Noah"],
+          "correctAnswer": "Moses and Elijah",
+          "value": 200
+        },
+        {
+          "question": "What did the voice from the cloud say?",
+          "options": ["Fear not", "Follow Him", "Behold my servant", "This is my beloved Son: hear him"],
+          "correctAnswer": "This is my beloved Son: hear him",
+          "value": 400
+        },
+        {
+          "question": "What did Jesus say about receiving a child in His name?",
+          "options": ["Children are blessed above all", "Children must be taught first", "Children are the greatest", "He that receives a child receives Me"],
+          "correctAnswer": "He that receives a child receives Me",
+          "value": 600
+        },
+        {
+          "question": "What city did Jesus set His face to go toward?",
+          "options": ["Bethany", "Nazareth", "Capernaum", "Jerusalem"],
+          "correctAnswer": "Jerusalem",
+          "value": 800
+        },
+        {
+          "question": "What did Jesus say about the man who looked back after putting his hand to the plow?",
+          "options": ["He shall be restored", "He shall be forgiven", "He must repent", "He is not fit for the kingdom of God"],
+          "correctAnswer": "He is not fit for the kingdom of God",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Mercy and Neighbor",
+      "questions": [
+        {
+          "question": "How many did Jesus appoint and send two by two?",
+          "options": ["Twelve", "Forty", "Twenty", "Seventy"],
+          "correctAnswer": "Seventy",
+          "value": 200
+        },
+        {
+          "question": "What did Jesus say the laborers are?",
+          "options": ["Blessed", "Strong", "Many", "Few"],
+          "correctAnswer": "Few",
+          "value": 400
+        },
+        {
+          "question": "Who passed by the wounded man before the Samaritan helped him?",
+          "options": ["A fisherman and a tax collector", "A Pharisee and a scribe", "A merchant and a soldier", "A priest and a Levite"],
+          "correctAnswer": "A priest and a Levite",
+          "value": 600
+        },
+        {
+          "question": "What did the Samaritan use to treat the man’s wounds?",
+          "options": ["Milk and honey", "Salt and vinegar", "Water and herbs", "Oil and wine"],
+          "correctAnswer": "Oil and wine",
+          "value": 800
+        },
+        {
+          "question": "Who did Jesus say was neighbor to the wounded man?",
+          "options": ["The priest", "The Levite", "The innkeeper", "He that showed mercy"],
+          "correctAnswer": "He that showed mercy",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Prayer and Warning",
+      "questions": [
+        {
+          "question": "What prayer did Jesus teach His disciples?",
+          "options": ["The prayer of Elijah", "The prayer of Moses", "The prayer of David", "The Lord’s Prayer"],
+          "correctAnswer": "The Lord’s Prayer",
+          "value": 200
+        },
+        {
+          "question": "What did Jesus say happens to those who ask?",
+          "options": ["They are judged", "They are tested", "They wait", "They receive"],
+          "correctAnswer": "They receive",
+          "value": 400
+        },
+        {
+          "question": "What sign did Jesus say would be given to that generation?",
+          "options": ["The sign of Moses", "The sign of David", "The sign of Elijah", "The sign of Jonas"],
+          "correctAnswer": "The sign of Jonas",
+          "value": 600
+        },
+        {
+          "question": "What did Jesus warn against regarding the Pharisees?",
+          "options": ["Their offerings", "Their clothing", "Their prayers", "The leaven of the Pharisees"],
+          "correctAnswer": "The leaven of the Pharisees",
+          "value": 800
+        },
+        {
+          "question": "What did Jesus say about the rich fool?",
+          "options": ["He would prosper", "He would be forgiven", "He would live long", "His soul would be required of him"],
+          "correctAnswer": "His soul would be required of him",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Repentance and Healing",
+      "questions": [
+        {
+          "question": "What did Jesus say about those slain by the tower in Siloam?",
+          "options": ["They were righteous", "They were cursed", "They were innocent", "Except ye repent, ye shall all likewise perish"],
+          "correctAnswer": "Except ye repent, ye shall all likewise perish",
+          "value": 200
+        },
+        {
+          "question": "What did the owner of the fig tree want to do?",
+          "options": ["Move it", "Sell it", "Water it more", "Cut it down"],
+          "correctAnswer": "Cut it down",
+          "value": 400
+        },
+        {
+          "question": "How long had the woman been bowed together before Jesus healed her?",
+          "options": ["Seven years", "Twelve years", "Forty years", "Eighteen years"],
+          "correctAnswer": "Eighteen years",
+          "value": 600
+        },
+        {
+          "question": "What did Jesus compare the kingdom of God to?",
+          "options": ["A treasure", "A vineyard", "A pearl", "A mustard seed"],
+          "correctAnswer": "A mustard seed",
+          "value": 800
+        },
+        {
+          "question": "What did Jesus say about entering the strait gate?",
+          "options": ["Few will try", "It is easy", "It is for the rich", "Many will seek to enter and shall not be able"],
+          "correctAnswer": "Many will seek to enter and shall not be able",
+          "value": 1000
+        }
+      ]
+    }
+  ]
+}
