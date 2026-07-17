@@ -1,0 +1,284 @@
+{
+  "categories": [
+    {
+      "name": "Announcement of John",
+      "questions": [
+        {
+          "question": "Who appeared to Zacharias while he ministered in the temple?",
+          "options": ["A priest", "An angel of the Lord", "A Levite", "A vision of Moses"],
+          "correctAnswer": "An angel of the Lord",
+          "value": 200
+        },
+        {
+          "question": "What happened to Zacharias because he did not believe the angel?",
+          "options": ["He became dumb", "He fell to the ground", "He was struck with fever", "He was blinded"],
+          "correctAnswer": "He became dumb",
+          "value": 400
+        },
+        {
+          "question": "How long did Elizabeth hide herself after conceiving?",
+          "options": ["Five months", "Three months", "Seven months", "Ten months"],
+          "correctAnswer": "Five months",
+          "value": 600
+        },
+        {
+          "question": "What was John forbidden to drink?",
+          "options": ["Strong drink", "Milk", "Water", "Wine mixed with herbs"],
+          "correctAnswer": "Strong drink",
+          "value": 800
+        },
+        {
+          "question": "What did the angel say John would turn many of the children of Israel to?",
+          "options": ["The priests", "The prophets", "The law of Moses", "The Lord their God"],
+          "correctAnswer": "The Lord their God",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Announcement of Jesus",
+      "questions": [
+        {
+          "question": "To whom was the angel Gabriel sent in Nazareth?",
+          "options": ["Joanna", "Mary", "Anna", "Martha"],
+          "correctAnswer": "Mary",
+          "value": 200
+        },
+        {
+          "question": "What was Mary told she would conceive?",
+          "options": ["A prophet", "A servant", "A king", "A son"],
+          "correctAnswer": "A son",
+          "value": 400
+        },
+        {
+          "question": "What name was Mary commanded to give her child?",
+          "options": ["Joseph", "Emmanuel", "Jesus", "Jehoshua"],
+          "correctAnswer": "Jesus",
+          "value": 600
+        },
+        {
+          "question": "What did Mary say after hearing the angel’s message?",
+          "options": ["Be it unto me according to thy word", "I am afraid", "Let me see a sign", "I must speak with Joseph"],
+          "correctAnswer": "Be it unto me according to thy word",
+          "value": 800
+        },
+        {
+          "question": "Who did the angel say was also with child in her old age?",
+          "options": ["Anna", "Elizabeth", "Sarah", "Miriam"],
+          "correctAnswer": "Elizabeth",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Births of John and Jesus",
+      "questions": [
+        {
+          "question": "What did the neighbors and cousins do when John was born?",
+          "options": ["Went to Jerusalem", "Offered sacrifices", "Wept", "Rejoiced"],
+          "correctAnswer": "Rejoiced",
+          "value": 200
+        },
+        {
+          "question": "What did Zacharias write when asked the child’s name?",
+          "options": ["Let Elizabeth decide", "Call him Zacharias", "His name is John", "He shall be a prophet"],
+          "correctAnswer": "His name is John",
+          "value": 400
+        },
+        {
+          "question": "Where was Jesus laid after His birth?",
+          "options": ["On straw", "In a cradle", "In a manger", "On a blanket"],
+          "correctAnswer": "In a manger",
+          "value": 600
+        },
+        {
+          "question": "Who first heard the announcement of Jesus’ birth?",
+          "options": ["Wise men", "Priests", "Shepherds", "Merchants"],
+          "correctAnswer": "Shepherds",
+          "value": 800
+        },
+        {
+          "question": "What did Mary do with the sayings told by the shepherds?",
+          "options": ["Told Joseph", "Shared them with neighbors", "Pondered them in her heart", "Wrote them down"],
+          "correctAnswer": "Pondered them in her heart",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Early Life of Jesus",
+      "questions": [
+        {
+          "question": "Where was Jesus taken to be presented to the Lord?",
+          "options": ["Galilee", "Nazareth", "Jerusalem", "Bethlehem"],
+          "correctAnswer": "Jerusalem",
+          "value": 200
+        },
+        {
+          "question": "Who blessed God when he saw the child Jesus?",
+          "options": ["Nathan", "Joseph", "Zacharias", "Simeon"],
+          "correctAnswer": "Simeon",
+          "value": 400
+        },
+        {
+          "question": "What prophetess also gave thanks at the temple?",
+          "options": ["Deborah", "Anna", "Miriam", "Huldah"],
+          "correctAnswer": "Anna",
+          "value": 600
+        },
+        {
+          "question": "At twelve years old, where did Jesus stay behind?",
+          "options": ["At an inn", "With relatives", "At the market", "In the temple"],
+          "correctAnswer": "In the temple",
+          "value": 800
+        },
+        {
+          "question": "What were the teachers in the temple astonished at?",
+          "options": ["His silence", "His appearance", "His questions only", "His understanding and answers"],
+          "correctAnswer": "His understanding and answers",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "John’s Ministry",
+      "questions": [
+        {
+          "question": "Where did John preach?",
+          "options": ["Jerusalem", "Galilee", "Nazareth", "The wilderness of Judaea"],
+          "correctAnswer": "The wilderness of Judaea",
+          "value": 200
+        },
+        {
+          "question": "What did John call the multitudes who came to be baptized?",
+          "options": ["Children of Israel", "Lost sheep", "Generation of vipers", "Sinners"],
+          "correctAnswer": "Generation of vipers",
+          "value": 400
+        },
+        {
+          "question": "What did John tell the people with two coats to do?",
+          "options": ["Keep both", "Sell one", "Offer one in sacrifice", "Give to him that hath none"],
+          "correctAnswer": "Give to him that hath none",
+          "value": 600
+        },
+        {
+          "question": "Who did John say was mightier than he?",
+          "options": ["Elijah", "Moses", "The priests", "One coming after him"],
+          "correctAnswer": "One coming after him",
+          "value": 800
+        },
+        {
+          "question": "What descended upon Jesus at His baptism?",
+          "options": ["A cloud", "Fire", "A dove only", "The Holy Ghost"],
+          "correctAnswer": "The Holy Ghost",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Temptation and Nazareth",
+      "questions": [
+        {
+          "question": "How long was Jesus tempted in the wilderness?",
+          "options": ["Seven days", "Thirty days", "Forty days", "Twelve days"],
+          "correctAnswer": "Forty days",
+          "value": 200
+        },
+        {
+          "question": "What did Jesus say man shall live by?",
+          "options": ["Sacrifice", "Prayer alone", "Bread alone", "Every word of God"],
+          "correctAnswer": "Every word of God",
+          "value": 400
+        },
+        {
+          "question": "Where did Jesus read from the prophet Isaiah?",
+          "options": ["In Jerusalem", "On a hillside", "In Capernaum", "In the synagogue at Nazareth"],
+          "correctAnswer": "In the synagogue at Nazareth",
+          "value": 600
+        },
+        {
+          "question": "What did the people of Nazareth attempt to do to Jesus?",
+          "options": ["Arrest Him", "Drive Him to Jerusalem", "Cast Him off a cliff", "Stone Him"],
+          "correctAnswer": "Cast Him off a cliff",
+          "value": 800
+        },
+        {
+          "question": "What spirit did Jesus cast out in Capernaum?",
+          "options": ["A deaf spirit", "A familiar spirit", "An unclean spirit", "A dumb spirit"],
+          "correctAnswer": "An unclean spirit",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Calling of Disciples",
+      "questions": [
+        {
+          "question": "What did Jesus tell Simon Peter to do before the great catch of fish?",
+          "options": ["Cast the net on the right side", "Wait until morning", "Launch out into the deep", "Call the other fishermen"],
+          "correctAnswer": "Launch out into the deep",
+          "value": 200
+        },
+        {
+          "question": "What did Jesus say He would make Simon?",
+          "options": ["A prophet", "A teacher", "A leader of Israel", "A fisher of men"],
+          "correctAnswer": "A fisher of men",
+          "value": 400
+        },
+        {
+          "question": "What did Jesus do for the man sick of the palsy?",
+          "options": ["Healed his fever", "Opened his eyes", "Forgave his sins", "Raised him up"],
+          "correctAnswer": "Forgave his sins",
+          "value": 600
+        },
+        {
+          "question": "Who left all, rose up, and followed Jesus?",
+          "options": ["Levi", "Andrew", "Thomas", "Bartholomew"],
+          "correctAnswer": "Levi",
+          "value": 800
+        },
+        {
+          "question": "What did Jesus say about new wine?",
+          "options": ["It belongs to the priests", "It must be aged first", "It should be poured out", "It must be put into new bottles"],
+          "correctAnswer": "It must be put into new bottles",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Teachings of Jesus",
+      "questions": [
+        {
+          "question": "What did Jesus say the Son of man is Lord of?",
+          "options": ["The harvest", "The prophets", "The sabbath", "The temple"],
+          "correctAnswer": "The sabbath",
+          "value": 200
+        },
+        {
+          "question": "What did Jesus do before choosing the twelve disciples?",
+          "options": ["Prayed all night", "Read the law", "Spoke with John", "Fasted three days"],
+          "correctAnswer": "Prayed all night",
+          "value": 400
+        },
+        {
+          "question": "Which disciple is called a traitor?",
+          "options": ["James", "Philip", "Thomas", "Judas Iscariot"],
+          "correctAnswer": "Judas Iscariot",
+          "value": 600
+        },
+        {
+          "question": "What did Jesus say to do to your enemies?",
+          "options": ["Avoid them", "Judge them", "Expose them", "Love them"],
+          "correctAnswer": "Love them",
+          "value": 800
+        },
+        {
+          "question": "What did Jesus compare a good man to?",
+          "options": ["A wise builder", "A shepherd", "A fisherman", "A tree that brings forth good fruit"],
+          "correctAnswer": "A tree that brings forth good fruit",
+          "value": 1000
+        }
+      ]
+    }
+  ]
+}
